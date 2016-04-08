@@ -30,11 +30,11 @@ http://tools.android.com/recent
 
 
 Android Studio 2.0 RC 3
-April 5th, 2016: For information on what's new in 2.0 RC 3, see the release announcement. For additional information about Android Studio, see the main developer site.
-Windows:  https://dl.google.com/dl/android/studio/ide-zips/2.0.0.19/android-studio-ide-143.2738706-windows.zip (289.1 MiB)
-Mac:  https://dl.google.com/dl/android/studio/ide-zips/2.0.0.19/android-studio-ide-143.2738706-mac.zip (287.6 MiB)
-Linux: https://dl.google.com/dl/android/studio/ide-zips/2.0.0.19/android-studio-ide-143.2738706-linux.zip (286.7 MiB)
-SHA-1 Checksums:
-e2834e9c3e6e057e054c13907da2d96ee8c82110 android-studio-ide-143.2738706-windows.zip
-423201b7d0f22dfeea77d7653604eb4f6d5bcd5d android-studio-ide-143.2738706-mac.zip
-1f3c14476da3f8fd53b4385628f9dd282b18a3b3 android-studio-ide-143.2738706-linux.zip
+April 5th, 2016: For information on what's new in 2.0 RC 3, see the release announcement. For additional information about Android Studio, see the main developer site. 
+Windows:  https://dl.google.com/dl/android/studio/ide-zips/2.0.0.19/android-studio-ide-143.2738706-windows.zip (289.1 MiB) 
+Mac:  https://dl.google.com/dl/android/studio/ide-zips/2.0.0.19/android-studio-ide-143.2738706-mac.zip (287.6 MiB) 
+Linux: https://dl.google.com/dl/android/studio/ide-zips/2.0.0.19/android-studio-ide-143.2738706-linux.zip (286.7 MiB) 
+SHA-1 Checksums: 
+e2834e9c3e6e057e054c13907da2d96ee8c82110 android-studio-ide-143.2738706-windows.zip 
+423201b7d0f22dfeea77d7653604eb4f6d5bcd5d android-studio-ide-143.2738706-mac.zip 
+1f3c14476da3f8fd53b4385628f9dd282b18a3b3 android-studio-ide-143.2738706-linux.zip 
