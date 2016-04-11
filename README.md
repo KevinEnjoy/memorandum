@@ -48,3 +48,7 @@ e2834e9c3e6e057e054c13907da2d96ee8c82110 android-studio-ide-143.2738706-windows.
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0106/2275.html
 
 http://blog.csdn.net/biezhihua/article/details/50603624
+
+https://github.com/alibaba/AndFix
+http://www.cnblogs.com/xiaomoxian/p/5265158.html
+http://www.bkjia.com/Androidjc/1055390.html
