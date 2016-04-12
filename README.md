@@ -49,6 +49,23 @@ http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0106/2275.html
 
 http://blog.csdn.net/biezhihua/article/details/50603624
 
+
+- 热修复
+- MVP
+- gradle自动打包apk
+- React Native
+
+
+
+热修复
 https://github.com/alibaba/AndFix
 http://www.cnblogs.com/xiaomoxian/p/5265158.html
 http://www.bkjia.com/Androidjc/1055390.html
+
+MVP
+http://yeungeek.com/2014/06/17/mvp-android/
+http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0202/2397.html
+http://www.lcode.org/android-mvp%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E8%AF%A6%E8%A7%A3/
+
+
+https://github.com/zhuxiujia/LoopView
