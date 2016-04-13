@@ -1,0 +1,16 @@
+
+/*ÒýÓÃ¿â*/
+git clone https://github.com/carozhu/androidCaroCommUnits.git
+git clone https://github.com/carozhu/AVLoadingIndicatorView-library.git
+git clone https://github.com/carozhu/material-ripple-library.git
+git clone https://github.com/carozhu/googleProgressBarmasterlibrary.git
+git clone https://github.com/carozhu/MaterialDateTimePickerlibrary.git
+git clone https://github.com/carozhu/ModifiedStepsView-lib.git
+git clone https://github.com/carozhu/BGASwipeItemLayout-library.git
+git clone https://github.com/carozhu/jellyrefresh.git
+git clone https://github.com/carozhu/FilterMenu-library.git
+git clone https://github.com/carozhu/Context-Menu-library.git
+git clone https://github.com/carozhu/fancybuttons_library.git
+git clone https://github.com/carozhu/MultiStateView-library.git
+git clone https://github.com/carozhu/easyloadingbtn-lib.git
+git clone https://github.com/carozhu/-circlemenu.git
