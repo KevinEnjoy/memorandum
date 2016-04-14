@@ -54,7 +54,7 @@ http://blog.csdn.net/biezhihua/article/details/50603624
 - MVP
 - gradle自动打包apk
 - React Native
-
+- NDK
 
 
 热修复
