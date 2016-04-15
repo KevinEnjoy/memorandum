@@ -81,3 +81,10 @@ aar打包默认只会把lib目录下的jar包带上，通过解压library projec
 dependencies {
     provided files('libs/nineoldandroids-2.2.0.jar')
 }
+
+
+---------------------
+#nodejs上传文件
+https://github.com/felixge/node-formidable
+http://www.cnblogs.com/zhongweiv/p/nodejs_express_formidable.html
+http://kirochen.com/2015/07/21/upload-demo-formidable/
