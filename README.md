@@ -88,3 +88,9 @@ dependencies {
 https://github.com/felixge/node-formidable
 http://www.cnblogs.com/zhongweiv/p/nodejs_express_formidable.html
 http://kirochen.com/2015/07/21/upload-demo-formidable/
+
+
+---------------------
+#bugly
+- 自行配置版本号（默认读AndroidManifest.xml文件中VersionName）
+- 配置用户名
