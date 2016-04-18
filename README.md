@@ -94,3 +94,9 @@ http://kirochen.com/2015/07/21/upload-demo-formidable/
 #bugly
 - 自行配置版本号（默认读AndroidManifest.xml文件中VersionName）
 - 配置用户名
+
+
+
+#Android Studio导入Eclipse的android项目出现中文乱码 
+http://www.flashgou.com/show/177 
+http://www.android-studio.org/index.php/docs/guide/129-eclipse-to-androidstdio 
