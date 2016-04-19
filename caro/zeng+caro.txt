@@ -1,0 +1,9 @@
+04-19 10:28:49.734: E/AndroidRuntime(22919): Caused by: java.lang.NoClassDefFoundError: com.smartkit.widgets.DragLayout$DragHelperCallback
+
+一直说找不到DragHelperCallback(继承ViewDragHelper.Callback)
+
+这是因为android-support-v13和android-support-v4共存时，不编译v4的问题
+一般Eclipse会有这样的一个警告:
+Found both android-support-v4 and android-support-v13 in the dependency list.
+正常来说，v4是v13的子集。但是项目中的v13估计版本太久，jar包居然比v4小很多，v13是251kb，v4是741kb。
+这就导致v13虽然包含了v4，但是有些类没有，如我们用到的ViewDragHelper。查了一下最新的版本V13是1.37MB，这才是对的。替换v13的jar包，就正常了。那之前的找不到ViewCompat类也是这个原因。
