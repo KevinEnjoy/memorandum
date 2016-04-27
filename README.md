@@ -100,3 +100,21 @@ http://kirochen.com/2015/07/21/upload-demo-formidable/
 #Android Studio导入Eclipse的android项目出现中文乱码 
 http://www.flashgou.com/show/177 
 http://www.android-studio.org/index.php/docs/guide/129-eclipse-to-androidstdio 
+
+
+#贝塞尔曲线
+http://gavinliu.cn/2015/03/30/Android-Animation-%E8%B4%9D%E5%A1%9E%E5%B0%94%E6%9B%B2%E7%BA%BF%E4%B9%8B%E7%BE%8E/
+https://github.com/gavinliu/BeautifulOfBezier
+http://blog.csdn.net/qq_21430549/article/details/50040241
+https://github.com/7heaven/Bezier
+https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout
+https://github.com/Steven-Luo/android-bezier-curve-chart
+
+
+
+
+
+
+
+
+
