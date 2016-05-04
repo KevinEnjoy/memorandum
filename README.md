@@ -113,7 +113,24 @@ https://github.com/Steven-Luo/android-bezier-curve-chart
 
 
 
+    //seperate RGB channels and calculate new value for each channel
+    //ignore alpha channel
+    private int RGBColorTransform(float progress, int fromColor, int toColor) {
+        int or = (fromColor >> 16) & 0xFF;
+        int og = (fromColor >> 8) & 0xFF;
+        int ob = fromColor & 0xFF;
 
+        int nr = (toColor >> 16) & 0xFF;
+        int ng = (toColor >> 8) & 0xFF;
+        int nb = toColor & 0xFF;
+
+        int rGap = (int) ((float) (nr - or) * progress);
+        int gGap = (int) ((float) (ng - og) * progress);
+        int bGap = (int) ((float) (nb - ob) * progress);
+
+        return 0xFF000000 | ((or + rGap) << 16) | ((og + gGap) << 8) | (ob + bGap);
+
+    }
 
 
 
