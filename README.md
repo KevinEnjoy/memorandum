@@ -135,3 +135,8 @@ https://github.com/Steven-Luo/android-bezier-curve-chart
 
 
 
+# Android Loader机制 
+先说一个典型的应用场景，打开某个界面时，需要先加载本地缓存的数据，然后再请求网络获取最新的数据，刷新UI。这个时候就可以使用Loader来简化操作。
+或者应用经常性的对数据源进行增删改，需要UI及时作出相应的刷新时，Loader也适用。
+
+http://willyan.me/2013/05/12/android-loader/
