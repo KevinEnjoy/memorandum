@@ -140,3 +140,24 @@ https://github.com/Steven-Luo/android-bezier-curve-chart
 或者应用经常性的对数据源进行增删改，需要UI及时作出相应的刷新时，Loader也适用。
 
 http://willyan.me/2013/05/12/android-loader/
+
+
+
+#使用Android API最佳实践(Retrofit OKHttp GSON)
+
+Retrofit和OkHttp同属于Square公司的开源项目，这两者是互补的关系，OkHttp是一个实现了HTTP协议的客户端，类似于HttpClient，而Retrofit是一个基于OkHttp的封装库，该库主要简化了http请求的实现过程，使得开发者只需关注自身功能的实现，而不必书写那些比较冗余的代码。但也正是由于Retrofit的高度封装性，其扩展性就相对比较弱，某些比较灵活的功能还需要开发者自己通过OkHttp来实现。
+
+http://blog.jobbole.com/65170/
+http://www.mobile-open.com/2016/922023.html
+
+
+#<a href="https://github.com/avast/android-butterknife-zelezny">ButterKnifeZelezny</a>
+
+Simple plug-in for Android Studio/IDEA that allows one-click creation of Butterknife view injections.
+
+一个直接生成ButterKnife对View声明的插件，看图：
+
+<p><a href="/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" target="_blank"><img src="/avast/android-butterknife-zelezny/raw/master/img/zelezny_animated.gif" alt="" style="max-width:100%;"></a></p>
+
+
+#End
