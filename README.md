@@ -157,7 +157,9 @@ Simple plug-in for Android Studio/IDEA that allows one-click creation of Butterk
 
 一个直接生成ButterKnife对View声明的插件，看图：
 
-<p><a href="/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" target="_blank"><img src="/avast/android-butterknife-zelezny/raw/master/img/zelezny_animated.gif" alt="" style="max-width:100%;"></a></p>
+<p><a href="/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" target="_blank"><img src="https://raw.githubusercontent.com/avast/android-butterknife-zelezny/master/img/zelezny_animated.gif" alt="" style="max-width:100%;"></a></p>
+
+<p><a href="/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" target="_blank"><img src="https://raw.githubusercontent.com/avast/android-butterknife-zelezny/master/img/butter_knife_zelezny_onclick_anim.gif" alt="" style="max-width:100%;"></a></p>
 
 
 #End
