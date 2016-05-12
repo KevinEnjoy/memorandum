@@ -8,6 +8,8 @@ https://github.com/zhuxiujia/LoopView
 
 https://bintray.com/tamajit/maven/android-spinnerwheel/view
 
+https://github.com/kyleduo/SwitchButton
+
 --------
 
 ```java
@@ -110,7 +112,7 @@ https://github.com/7heaven/Bezier
 https://github.com/recruit-lifestyle/WaveSwipeRefreshLayout
 https://github.com/Steven-Luo/android-bezier-curve-chart
 
-
+http://blog.csdn.net/u012319317/article/details/50496602
 
 
     //seperate RGB channels and calculate new value for each channel
