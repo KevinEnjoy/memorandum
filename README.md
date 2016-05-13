@@ -16,6 +16,12 @@ https://github.com/Yalantis/uCrop
 
 https://github.com/lopspower/CircularFillableLoaders
 
+https://github.com/timqi/SectorProgressView
+
+https://github.com/alt236/Bluetooth-LE-Library---Android
+
+https://github.com/Mr-wangyong/FragmentStack
+
 --------
 
 ```java
