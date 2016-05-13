@@ -10,6 +10,12 @@ https://bintray.com/tamajit/maven/android-spinnerwheel/view
 
 https://github.com/kyleduo/SwitchButton
 
+https://github.com/koral--/android-gif-drawable
+
+https://github.com/Yalantis/uCrop
+
+https://github.com/lopspower/CircularFillableLoaders
+
 --------
 
 ```java
@@ -162,6 +168,18 @@ Simple plug-in for Android Studio/IDEA that allows one-click creation of Butterk
 <p><a href="/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" target="_blank"><img src="https://raw.githubusercontent.com/avast/android-butterknife-zelezny/master/img/zelezny_animated.gif" alt="" style="max-width:100%;"></a></p>
 
 <p><a href="/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" target="_blank"><img src="https://raw.githubusercontent.com/avast/android-butterknife-zelezny/master/img/butter_knife_zelezny_onclick_anim.gif" alt="" style="max-width:100%;"></a></p>
+
+
+#Mina框架的学习笔记——Android客户端的实现
+
+http://www.cnblogs.com/cpacm/p/3915302.html
+
+
+#启动模式
+
+http://www.cnblogs.com/meizixiong/archive/2013/07/03/3170591.html
+
+
 
 
 #End
