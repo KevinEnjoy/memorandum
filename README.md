@@ -22,6 +22,8 @@ https://github.com/alt236/Bluetooth-LE-Library---Android
 
 https://github.com/Mr-wangyong/FragmentStack
 
+https://github.com/mikepenz/Android-Iconics
+
 --------
 
 ```java
