@@ -187,6 +187,9 @@ http://www.cnblogs.com/cpacm/p/3915302.html
 
 http://www.cnblogs.com/meizixiong/archive/2013/07/03/3170591.html
 
+背景模糊
+https://github.com/charbgr/BlurNavigationDrawer
+
 
 
 
