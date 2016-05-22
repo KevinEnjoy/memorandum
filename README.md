@@ -3,6 +3,7 @@
 https://github.com/KevinEnjoy/memorandum 
 
 https://github.com/Trinea/android-open-project
+https://github.com/wasabeef/awesome-android-ui
 
 https://github.com/zhuxiujia/LoopView 
 
