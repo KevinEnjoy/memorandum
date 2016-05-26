@@ -192,6 +192,24 @@ http://www.cnblogs.com/meizixiong/archive/2013/07/03/3170591.html
 https://github.com/charbgr/BlurNavigationDrawer
 
 
+#浏览Github的树形插件
 
+地址：https://github.com/buunguyen/octotree
+
+Chrome/火狐插件Octotree（作者： Buu Nguyen）
+
+### Install on Chrome, Firefox and Opera
+* Install Octotree from [Chrome Web Store](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc), [Mozilla Add-ons Store](https://addons.mozilla.org/en-US/firefox/addon/octotree/) or [Opera Add-ons Store](https://addons.opera.com/en/extensions/details/octotree/)
+* Navigate to any GitHub or GitLab repository (or just refresh this page as an example)
+* The code tree should show on the left-hand side of the screen
+
+__Note__: to configure Octotree for GitHub and GitLab Enterprise, see [instructions](#enterprise-urls)
+
+### Install on Safari
+
+Octotree is not available on the Safari gallery. Instead, you must use the prebuilt package or build one from source.
+
+* Download the [Safari prebuilt package](https://github.com/buunguyen/octotree/blob/master/dist/safari.safariextz?raw=true)
+* Double-click or drag it to Safari
 
 #End
