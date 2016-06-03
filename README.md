@@ -212,4 +212,11 @@ Octotree is not available on the Safari gallery. Instead, you must use the prebu
 * Download the [Safari prebuilt package](https://github.com/buunguyen/octotree/blob/master/dist/safari.safariextz?raw=true)
 * Double-click or drag it to Safari
 
+
+#JSON API免费接口
+
+http://www.bejson.com/knownjson/webInterface/
+
+
+
 #End
