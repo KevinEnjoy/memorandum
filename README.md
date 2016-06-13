@@ -233,4 +233,10 @@ https://c9.io
 http://javascript.ruanyifeng.com/nodejs/express.html
 
 
+#android中string.xml中%1$s、%1$d等的用法
+http://dengzhangtao.iteye.com/blog/1827533
+
+#Markdown 语法说明 
+http://wowubuntu.com/markdown/
+
 #End
