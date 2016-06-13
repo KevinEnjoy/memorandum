@@ -5,6 +5,8 @@ https://github.com/KevinEnjoy/memorandum
 https://github.com/Trinea/android-open-project
 https://github.com/wasabeef/awesome-android-ui
 
+#已经看过的项目
+
 https://github.com/zhuxiujia/LoopView 
 
 https://bintray.com/tamajit/maven/android-spinnerwheel/view
@@ -15,17 +17,21 @@ https://github.com/koral--/android-gif-drawable
 
 https://github.com/Yalantis/uCrop
 
+https://github.com/mikepenz/Android-Iconics
+
+
+#未看过的项目
+
+https://github.com/Mr-wangyong/FragmentStack
+
+https://github.com/alt236/Bluetooth-LE-Library---Android
+
 https://github.com/lopspower/CircularFillableLoaders
 
 https://github.com/timqi/SectorProgressView
 
-https://github.com/alt236/Bluetooth-LE-Library---Android
-
-https://github.com/Mr-wangyong/FragmentStack
-
-https://github.com/mikepenz/Android-Iconics
-
 --------
+#库的引用
 
 ```java
 compile ':library-spinnerwheel@aar' 
