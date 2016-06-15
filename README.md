@@ -302,14 +302,14 @@ http://wowubuntu.com/markdown/
 
 #比较Picasso、Glide 和 Fresco 三种图片加载库
 
-http://blog.qiji.tech/archives/6344
+[ Android  Fresco 与 Picasso 、Glide 的比较](http://blog.qiji.tech/archives/6344)
 
 结论：
 Picasso 所能实现的功能 Glide 都能做到，只是所需设置不同。两者的区别是 Picasso 比 Glide 体积小很多且图像质量比 Glide 高，但Glide 的速度比 Picasso 更快，Glide 的长处是处理大型的图片流，如 gif、video，如果要制作视频类应用，Glide 当为首选。
 Fresco 可以说是综合了之前图片加载库的优点，其在5.0以下的内存优化非常好，但它的不足是体积太大，按体积进行比较：Fresco>Glide>Picasso，所以 Fresco 在图片较多的应用中更能凸显其价值，如果应用没有太多图片需求，不推荐使用 Fresco。
 
 
-(Picasso&Glide&Fresco比较 )[http://mrljdx.com/2015/12/22/Picasso-Glide-Fresco%E6%AF%94%E8%BE%83/]
+[Picasso&Glide&Fresco比较 ](http://mrljdx.com/2015/12/22/Picasso-Glide-Fresco%E6%AF%94%E8%BE%83/)
 
 结论：
 1.Glide默认提供配置支持本地图片缓存,缓存的机制是DiskLruCache.可以根据自己的需要,自定义图片缓存的路径.所以在考虑节省用户流量来看可以不考虑Picasso;
@@ -319,7 +319,7 @@ Fresco 可以说是综合了之前图片加载库的优点，其在5.0以下的�
 
 
 关于Glide和Picasso的比较文章推荐:
-(Introduction to Glide, Image Loader Library for Android, recommended by Google)[https://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en]
+[Introduction to Glide, Image Loader Library for Android, recommended by Google](https://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
 
 #如何手动清理Fresco的缓存
 http://blog.csdn.net/biezhihua/article/details/49893323
