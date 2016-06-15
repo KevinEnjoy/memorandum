@@ -223,6 +223,58 @@ Octotree is not available on the Safari gallery. Instead, you must use the prebu
 
 http://www.bejson.com/knownjson/webInterface/
 
+必应每日壁纸API
+http://www.bing.com/HPImageArchive.aspx?format=js&n=8&idx=1
+
+
+## (BING 壁纸 API 用法)[https://github.com/Eary/bing] 
+ - 1. 访问 https://api.ioliu.cn/bing/ , 返回bing每日最新背景图, 可选参数`[w,h]`
+ - 2. 访问 https://api.ioliu.cn/bing/?d=n (n>=0), 返回以当日为起点第n天前的壁纸, 可选参数`[w,h]`
+ - 3. 访问 https://api.ioliu.cn/bing/json/ , 返回bing每日最新壁纸的相关(介绍、图片地址等)信息(json格式), 可选参数`[callback]`.  
+ - 4. 访问 https://api.ioliu.cn/bing/rand/ , 返回随机图片, 可选参数`[w,h]`
+ - 5. 访问 https://api.ioliu.cn/bing/blur/ , 返回`高斯模糊`图片, 可选参数`[d,w,h]`
+ 
+带`[w,h]`用法： https://api.ioliu.cn/bing/rand/?w=1920&h=1200  
+
+### 目前已知分辨率`[w,h]`
+```   
+1920x1200   
+1920x1080    
+1366x768   
+1280x768    
+1024x768    
+800x600    
+800x480
+768x1280  
+720x1280      
+640x480   
+480x800     
+400x240     
+320x240 
+240x320  
+```   
+
+### api https://api.ioliu.cn/bing/json/ 返回的json格式如下(支持`跨域调用`和`jsonp`)：  
+```
+{
+    id: "47",
+    title: "有灵气的犄角",
+    attribute: "大角羊",
+    description: "头顶两只巨大羊角的大角羊喜欢生活在多岩石的干燥地区，它们尤为喜欢各种开阔、干燥的沙漠和岩石山上。在落基山脉，大角羊随处可见，行动敏捷、视力敏锐的它们为这片旷野增添了不少活力。",
+    startdate: "20160419",
+    enddate: "20160420",
+    fullstartdate: "201604191600",
+    url: "http://s.cn.bing.net/az/hprichbg/rb/BigHornSheep_ZH-CN6358178150_1920x1080.jpg",
+    urlbase: "/az/hprichbg/rb/BigHornSheep_ZH-CN6358178150",
+    copyright: "加拿大，阿尔伯塔，卡纳纳斯基斯行政区的落基山脉大角羊 (© Walter Nussbaumer/Corbis)",
+    copyrightlink: "http://www.bing.com/search?q=%E5%A4%A7%E8%A7%92%E7%BE%8A&form=hpcapt&mkt=zh-cn",
+    hsh: "7da649ef5e67013814d6b618d0a35ece",
+    qiniu_url: "BigHornSheep_ZH-CN6358178150",
+    date: "2016-04-20"
+}
+```
+
+
 
 
 #1.0.1 2015年最新Android基础入门教程目录
@@ -244,5 +296,33 @@ http://dengzhangtao.iteye.com/blog/1827533
 
 #Markdown 语法说明 
 http://wowubuntu.com/markdown/
+
+
+
+
+#比较Picasso、Glide 和 Fresco 三种图片加载库
+
+http://blog.qiji.tech/archives/6344
+
+结论：
+Picasso 所能实现的功能 Glide 都能做到，只是所需设置不同。两者的区别是 Picasso 比 Glide 体积小很多且图像质量比 Glide 高，但Glide 的速度比 Picasso 更快，Glide 的长处是处理大型的图片流，如 gif、video，如果要制作视频类应用，Glide 当为首选。
+Fresco 可以说是综合了之前图片加载库的优点，其在5.0以下的内存优化非常好，但它的不足是体积太大，按体积进行比较：Fresco>Glide>Picasso，所以 Fresco 在图片较多的应用中更能凸显其价值，如果应用没有太多图片需求，不推荐使用 Fresco。
+
+
+(Picasso&Glide&Fresco比较 )[http://mrljdx.com/2015/12/22/Picasso-Glide-Fresco%E6%AF%94%E8%BE%83/]
+
+结论：
+1.Glide默认提供配置支持本地图片缓存,缓存的机制是DiskLruCache.可以根据自己的需要,自定义图片缓存的路径.所以在考虑节省用户流量来看可以不考虑Picasso;
+2.虽然Fresco也提供更强大的图片缓存和加载机制,不过在比较之后,感觉Fresco还是有待完善.Glide可以很简单的获取网络图片的Bitmap对象,而Fresco需要通过订阅数据源克隆Bitmap对象的引用才能存储值.操作方式不够简洁和友好.
+3.Fresco的库文件中,以最新的0.8.1为例,imagepipeline-0.8.1.aar光包得大小就有3.5M ,而Glide包的大小为465K为了让Apk包得体积更小,所以考虑使用Glide.
+
+
+
+关于Glide和Picasso的比较文章推荐:
+(Introduction to Glide, Image Loader Library for Android, recommended by Google)[https://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en]
+
+#如何手动清理Fresco的缓存
+http://blog.csdn.net/biezhihua/article/details/49893323
+
 
 #End
