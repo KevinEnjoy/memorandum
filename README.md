@@ -1,5 +1,9 @@
 # 记事本
 
+#[MarkDown Here](https://github.com/adam-p/markdown-here)
+[基本语法](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+
+
 https://github.com/KevinEnjoy/memorandum 
 
 https://github.com/Trinea/android-open-project
@@ -302,27 +306,50 @@ http://wowubuntu.com/markdown/
 
 #比较Picasso、Glide 和 Fresco 三种图片加载库
 
-[ Android  Fresco 与 Picasso 、Glide 的比较](http://blog.qiji.tech/archives/6344)
+##[ Android  Fresco 与 Picasso 、Glide 的比较](http://blog.qiji.tech/archives/6344)
 
 结论：
 Picasso 所能实现的功能 Glide 都能做到，只是所需设置不同。两者的区别是 Picasso 比 Glide 体积小很多且图像质量比 Glide 高，但Glide 的速度比 Picasso 更快，Glide 的长处是处理大型的图片流，如 gif、video，如果要制作视频类应用，Glide 当为首选。
 Fresco 可以说是综合了之前图片加载库的优点，其在5.0以下的内存优化非常好，但它的不足是体积太大，按体积进行比较：Fresco>Glide>Picasso，所以 Fresco 在图片较多的应用中更能凸显其价值，如果应用没有太多图片需求，不推荐使用 Fresco。
 
 
-[Picasso&Glide&Fresco比较 ](http://mrljdx.com/2015/12/22/Picasso-Glide-Fresco%E6%AF%94%E8%BE%83/)
+##[Picasso&Glide&Fresco比较 ](http://mrljdx.com/2015/12/22/Picasso-Glide-Fresco%E6%AF%94%E8%BE%83/)
 
 结论：
 1.Glide默认提供配置支持本地图片缓存,缓存的机制是DiskLruCache.可以根据自己的需要,自定义图片缓存的路径.所以在考虑节省用户流量来看可以不考虑Picasso;
 2.虽然Fresco也提供更强大的图片缓存和加载机制,不过在比较之后,感觉Fresco还是有待完善.Glide可以很简单的获取网络图片的Bitmap对象,而Fresco需要通过订阅数据源克隆Bitmap对象的引用才能存储值.操作方式不够简洁和友好.
-3.Fresco的库文件中,以最新的0.8.1为例,imagepipeline-0.8.1.aar光包得大小就有3.5M ,而Glide包的大小为465K为了让Apk包得体积更小,所以考虑使用Glide.
+3.Fresco的库文件中,以最新的0.8.1为例,imagepipeline-0.8.1.aar光包得大小就有3.5M ,而Glide包的大小为465K(依赖于1.12MB的android-support-v4)为了让Apk包得体积更小,所以考虑使用Glide.
 
 
 
-关于Glide和Picasso的比较文章推荐:
+###关于Glide和Picasso的比较文章推荐:
 [Introduction to Glide, Image Loader Library for Android, recommended by Google](https://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
 
-#如何手动清理Fresco的缓存
+
+##[Fresco](https://github.com/facebook/fresco)
+
+###[Fresco英文文档](http://frescolib.org/docs)
+
+###[Fresco中文文档](http://www.fresco-cn.org/docs)
+
+###如何手动清理Fresco的缓存
 http://blog.csdn.net/biezhihua/article/details/49893323
+
+
+##[Glide](https://github.com/bumptech/glide)
+
+
+###[Glide — Getting Started](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
+
+###[译Glide - 开始](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
+
+###[Glide 使用必须知道的基础属性](http://www.jianshu.com/p/cfb3d467687d)
+
+###[Android图片库--Glide Wiki中文翻译 ](http://limuzhi.com/2016/01/24/Android%E5%9B%BE%E7%89%87%E5%BA%93-Glide/)
+
+###[获取磁盘缓存文件的大小](https://github.com/bumptech/glide/issues/789)
+
+
 
 
 #End
