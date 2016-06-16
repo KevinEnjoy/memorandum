@@ -328,26 +328,25 @@ Fresco 可以说是综合了之前图片加载库的优点，其在5.0以下的�
 
 ##[Fresco](https://github.com/facebook/fresco)
 
-###[Fresco英文文档](http://frescolib.org/docs)
+####[Fresco英文文档](http://frescolib.org/docs)
 
-###[Fresco中文文档](http://www.fresco-cn.org/docs)
+####[Fresco中文文档](http://www.fresco-cn.org/docs)
 
-###如何手动清理Fresco的缓存
-http://blog.csdn.net/biezhihua/article/details/49893323
+####[如何手动清理Fresco的缓存](http://blog.csdn.net/biezhihua/article/details/49893323)
 
 
 ##[Glide](https://github.com/bumptech/glide)
 
 
-###[Glide — Getting Started](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
+####[Glide — Getting Started](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
 
-###[译Glide - 开始](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
+####[译Glide — Getting Started](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
 
-###[Glide 使用必须知道的基础属性](http://www.jianshu.com/p/cfb3d467687d)
+####[Glide 使用必须知道的基础属性](http://www.jianshu.com/p/cfb3d467687d)
 
-###[Android图片库--Glide Wiki中文翻译 ](http://limuzhi.com/2016/01/24/Android%E5%9B%BE%E7%89%87%E5%BA%93-Glide/)
+####[Android图片库--Glide Wiki中文翻译 ](http://limuzhi.com/2016/01/24/Android%E5%9B%BE%E7%89%87%E5%BA%93-Glide/)
 
-###[获取磁盘缓存文件的大小](https://github.com/bumptech/glide/issues/789)
+####[获取磁盘缓存文件的大小](https://github.com/bumptech/glide/issues/789)
 
 
 
