@@ -1,15 +1,22 @@
-# 记事本
+# 记事本-https://github.com/KevinEnjoy/memorandum 
 
 #[MarkDown Here](https://github.com/adam-p/markdown-here)
+
 [基本语法](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
+[Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
 
-https://github.com/KevinEnjoy/memorandum 
+[Markdown 转换为 HTML、Word、PDF](https://github.com/LearnShare/Learning-Markdown/blob/master/article/convert/readme.md)
+
+
+<br>
+<br>
+<br>
+
+#已经看过的项目
 
 https://github.com/Trinea/android-open-project
 https://github.com/wasabeef/awesome-android-ui
-
-#已经看过的项目
 
 https://github.com/zhuxiujia/LoopView 
 
