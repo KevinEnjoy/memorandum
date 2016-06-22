@@ -264,7 +264,20 @@ Simple plug-in for Android Studio/IDEA that allows one-click creation of Butterk
 
 This plugin help you to set material design icon to your project. 
 
+####[GitHub Material Design Icons](https://github.com/google/material-design-icons)
+
+[Material Design Icons Developer Guide ](http://google.github.io/material-design-icons/)
+
+[Material Design Icons在线预览](https://design.google.com/icons/)
+
+[Material Design Icons设计源文件](https://material.google.com/resources/sticker-sheets-icons.html#)
+
+
 ![capture](https://raw.githubusercontent.com/konifar/android-material-design-icon-generator-plugin/master/docs/capture.gif)
+
+
+#[ Material design ](https://material.google.com)
+
 
 #Mina框架的学习笔记——Android客户端的实现
 
