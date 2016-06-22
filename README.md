@@ -231,7 +231,7 @@ http://www.bejson.com/knownjson/webInterface/
 http://www.bing.com/HPImageArchive.aspx?format=js&n=8&idx=1
 
 
-## (BING 壁纸 API 用法)[https://github.com/Eary/bing] 
+## [BING 壁纸 API 用法](https://github.com/Eary/bing)
  - 1. 访问 https://api.ioliu.cn/bing/ , 返回bing每日最新背景图, 可选参数`[w,h]`
  - 2. 访问 https://api.ioliu.cn/bing/?d=n (n>=0), 返回以当日为起点第n天前的壁纸, 可选参数`[w,h]`
  - 3. 访问 https://api.ioliu.cn/bing/json/ , 返回bing每日最新壁纸的相关(介绍、图片地址等)信息(json格式), 可选参数`[callback]`.  
