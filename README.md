@@ -1,15 +1,22 @@
-# 记事本
+# 记事本-https://github.com/KevinEnjoy/memorandum 
 
 #[MarkDown Here](https://github.com/adam-p/markdown-here)
+
 [基本语法](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
+[Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
 
-https://github.com/KevinEnjoy/memorandum 
+[Markdown 转换为 HTML、Word、PDF](https://github.com/LearnShare/Learning-Markdown/blob/master/article/convert/readme.md)
+
+
+<br>
+<br>
+<br>
+
+#已经看过的项目
 
 https://github.com/Trinea/android-open-project
 https://github.com/wasabeef/awesome-android-ui
-
-#已经看过的项目
 
 https://github.com/zhuxiujia/LoopView 
 
@@ -54,25 +61,89 @@ Glide.with(this)
 
 #Android App 安装目录
 
+```
 手机内存/date/app 
 手机内存/system/app 
+```
 
 --------
-Android Studio更新日志(上面有2.0/2.1的下载地址)
-http://tools.android.com/recent
+#[Android Studio在线更新失败解决办法：](http://blog.csdn.net/gao_chun/article/details/45667645)
 
---------
-Android Studio 2.0 RC 3
-April 5th, 2016: For information on what's new in 2.0 RC 3, see the release announcement. For additional information about Android Studio, see the main developer site. 
-Windows:  https://dl.google.com/dl/android/studio/ide-zips/2.0.0.19/android-studio-ide-143.2738706-windows.zip (289.1 MiB) 
-Mac:  https://dl.google.com/dl/android/studio/ide-zips/2.0.0.19/android-studio-ide-143.2738706-mac.zip (287.6 MiB) 
-Linux: https://dl.google.com/dl/android/studio/ide-zips/2.0.0.19/android-studio-ide-143.2738706-linux.zip (286.7 MiB) 
-SHA-1 Checksums: 
-e2834e9c3e6e057e054c13907da2d96ee8c82110 android-studio-ide-143.2738706-windows.zip 
-423201b7d0f22dfeea77d7653604eb4f6d5bcd5d android-studio-ide-143.2738706-mac.zip 
-1f3c14476da3f8fd53b4385628f9dd282b18a3b3 android-studio-ide-143.2738706-linux.zip 
+在Android Studio安装目录"/bin/studio.exe.vmoptions"(或者/bin/studio64.exe.vmoptions)文件中追加以下几行：
+```
+    -Djava.net.preferIPv4Stack=true  
+    -Didea.updates.url=http://dl.google.com/android/studio/patches/updates.xml  
+    -Didea.patches.url=http://dl.google.com/android/studio/patches/  
+```
 
---------
+
+#[Android Studio更新日志](http://tools.android.com/recent)
+
+
+```html
+ [Android Studio 2.2 Preview 3](http://tools.android.com/download/studio/builds/2-2-preview-3)
+
+June 8th, 2016: For information on what's new in 2.2 Preview 3, see the release announcement.
+For additional information about Android Studio, see the main developer site.
+
+Installation
+
+Due to a bug, you can only patch from Android Studio 2.2 Preview 2 to Preview 3. 
+All other users  will need to download a complete install of the IDE. With Android Studio 2.2, 
+you may have noticed the larger download sizes than previous versions of Android Studio; 
+this is because we now bundle a build of OpenJDK with the IDE to address various font rendering and stability issues.
+
+Windows: https://dl.google.com/dl/android/studio/ide-zips/2.2.0.2/android-studio-ide-145.2949926-windows.zip (436.8 MB)
+
+Mac: https://dl.google.com/dl/android/studio/ide-zips/2.2.0.2/android-studio-ide-145.2949926-mac.zip  (436.9 MB)
+
+Linux:  https://dl.google.com/dl/android/studio/ide-zips/2.2.0.2/android-studio-ide-145.2949926-linux.zip  (436.4 MB) 
+
+SHA-1 Checksums:
+
+dc907b35c7ae71d49e3f76122d3d2bf5e5db9273 android-studio-ide-145.2949926-windows.zip
+
+5d0c0680aa3f44cfd9bca59aca5408ac1a194b6b android-studio-ide-145.2949926-mac.zip
+
+75816cb2e46574fc830f8cd3d8fc75f5441b69e8 android-studio-ide-145.2949926-linux.zip
+```
+
+#Android N(API 24)我的配置环境
+
+```
+classpath 'com.android.tools.build:gradle:2.1.2'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion "24.0.0"
+
+    defaultConfig {
+        applicationId "com.demo.version24"
+        minSdkVersion 19
+        targetSdkVersion 24
+        versionCode 1
+        versionName "1.0"
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    compile 'com.android.support:appcompat-v7:24.0.0'
+}
+```
+
+#第三方网站下载Google Play Apps
+
+#####[apkpure](https://apkpure.com)
+
+试过好几种Play应用的网站，这个网站是下载速度最快，下载成功率最高的，而且资源也很丰富，不过一些付费的app还是下载不了，下载方法和其他网站的类似。
+
+#####[酷安](http://www.coolapk.com)
+
+酷安的资源大部分都来自于Google Play，并且酷安小编对软件也都做了言简意赅的说明，建议优先在酷安网查找下载。
+
+
 #okhttp 
 http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0106/2275.html 
 
@@ -178,15 +249,34 @@ http://blog.jobbole.com/65170/
 http://www.mobile-open.com/2016/922023.html
 
 
-#<a href="https://github.com/avast/android-butterknife-zelezny">ButterKnifeZelezny</a>
+#插件[ButterKnifeZelezny](https://github.com/avast/android-butterknife-zelezny)
 
 Simple plug-in for Android Studio/IDEA that allows one-click creation of Butterknife view injections.
 
 一个直接生成ButterKnife对View声明的插件，看图：
 
-<p><a href="/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" target="_blank"><img src="https://raw.githubusercontent.com/avast/android-butterknife-zelezny/master/img/zelezny_animated.gif" alt="" style="max-width:100%;"></a></p>
+![capture](https://raw.githubusercontent.com/avast/android-butterknife-zelezny/master/img/zelezny_animated.gif)
 
-<p><a href="/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" target="_blank"><img src="https://raw.githubusercontent.com/avast/android-butterknife-zelezny/master/img/butter_knife_zelezny_onclick_anim.gif" alt="" style="max-width:100%;"></a></p>
+![capture](https://raw.githubusercontent.com/avast/android-butterknife-zelezny/master/img/butter_knife_zelezny_onclick_anim.gif)
+
+
+#插件[Android Material Design 图标生成插件](https://github.com/konifar/android-material-design-icon-generator-plugin)
+
+This plugin help you to set material design icon to your project. 
+
+####[GitHub Material Design Icons](https://github.com/google/material-design-icons)
+
+[Material Design Icons Developer Guide ](http://google.github.io/material-design-icons/)
+
+[Material Design Icons在线预览](https://design.google.com/icons/)
+
+[Material Design Icons设计源文件](https://material.google.com/resources/sticker-sheets-icons.html#)
+
+
+![capture](https://raw.githubusercontent.com/konifar/android-material-design-icon-generator-plugin/master/docs/capture.gif)
+
+
+#[ Material design ](https://material.google.com)
 
 
 #Mina框架的学习笔记——Android客户端的实现
@@ -349,6 +439,18 @@ Fresco 可以说是综合了之前图片加载库的优点，其在5.0以下的�
 ####[获取磁盘缓存文件的大小](https://github.com/bumptech/glide/issues/789)
 
 
+# header
+```
+if (header == null) {
+    throw new IllegalArgumentException("header may not be null");
+}
+```
+
+#[一个博客网站medium](https://medium.com/)
+
+http://36kr.com/p/208436.html
 
 
+
+	
 #End
