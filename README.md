@@ -83,11 +83,15 @@ Glide.with(this)
 ```html
  [Android Studio 2.2 Preview 3](http://tools.android.com/download/studio/builds/2-2-preview-3)
 
-June 8th, 2016: For information on what's new in 2.2 Preview 3, see the release announcement. For additional information about Android Studio, see the main developer site.
+June 8th, 2016: For information on what's new in 2.2 Preview 3, see the release announcement.
+For additional information about Android Studio, see the main developer site.
 
 Installation
 
-Due to a bug, you can only patch from Android Studio 2.2 Preview 2 to Preview 3. All other users  will need to download a complete install of the IDE. With Android Studio 2.2, you may have noticed the larger download sizes than previous versions of Android Studio; this is because we now bundle a build of OpenJDK with the IDE to address various font rendering and stability issues.
+Due to a bug, you can only patch from Android Studio 2.2 Preview 2 to Preview 3. 
+All other users  will need to download a complete install of the IDE. With Android Studio 2.2, 
+you may have noticed the larger download sizes than previous versions of Android Studio; 
+this is because we now bundle a build of OpenJDK with the IDE to address various font rendering and stability issues.
 
 Windows: https://dl.google.com/dl/android/studio/ide-zips/2.2.0.2/android-studio-ide-145.2949926-windows.zip (436.8 MB)
 
@@ -422,6 +426,11 @@ Fresco 可以说是综合了之前图片加载库的优点，其在5.0以下的�
 ####[获取磁盘缓存文件的大小](https://github.com/bumptech/glide/issues/789)
 
 
-#
-
+# header
+```
+if (header == null) {
+    throw new IllegalArgumentException("header may not be null");
+}
+```
+	
 #End
