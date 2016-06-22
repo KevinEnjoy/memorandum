@@ -245,16 +245,22 @@ http://blog.jobbole.com/65170/
 http://www.mobile-open.com/2016/922023.html
 
 
-#<a href="https://github.com/avast/android-butterknife-zelezny">ButterKnifeZelezny</a>
+#插件[ButterKnifeZelezny](https://github.com/avast/android-butterknife-zelezny)
 
 Simple plug-in for Android Studio/IDEA that allows one-click creation of Butterknife view injections.
 
 一个直接生成ButterKnife对View声明的插件，看图：
 
-<p><a href="/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" target="_blank"><img src="https://raw.githubusercontent.com/avast/android-butterknife-zelezny/master/img/zelezny_animated.gif" alt="" style="max-width:100%;"></a></p>
+![capture](https://raw.githubusercontent.com/avast/android-butterknife-zelezny/master/img/zelezny_animated.gif)
 
-<p><a href="/avast/android-butterknife-zelezny/blob/master/img/zelezny_animated.gif" target="_blank"><img src="https://raw.githubusercontent.com/avast/android-butterknife-zelezny/master/img/butter_knife_zelezny_onclick_anim.gif" alt="" style="max-width:100%;"></a></p>
+![capture](https://raw.githubusercontent.com/avast/android-butterknife-zelezny/master/img/butter_knife_zelezny_onclick_anim.gif)
 
+
+#插件[Android Material Design 图标生成插件](https://github.com/konifar/android-material-design-icon-generator-plugin)
+
+This plugin help you to set material design icon to your project. 
+
+![capture](https://raw.githubusercontent.com/konifar/android-material-design-icon-generator-plugin/master/docs/capture.gif)
 
 #Mina框架的学习笔记——Android客户端的实现
 
