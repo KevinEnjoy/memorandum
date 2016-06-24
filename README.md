@@ -1,8 +1,14 @@
 # 记事本-https://github.com/KevinEnjoy/memorandum 
 
+```
+纸上得来终觉浅，绝知此事要躬行。
+```
+
 #[MarkDown Here](https://github.com/adam-p/markdown-here)
 
-[基本语法](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+[MarkDown基本语法](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+
+[MarkDown完整语法](http://itmyhome.com/markdown/article/about/readme.html)
 
 [Markdown 入门参考](https://github.com/LearnShare/Learning-Markdown)
 
@@ -40,6 +46,10 @@ https://github.com/alt236/Bluetooth-LE-Library---Android
 https://github.com/lopspower/CircularFillableLoaders
 
 https://github.com/timqi/SectorProgressView
+
+https://github.com/cymcsg/UltimateRecyclerView
+
+https://github.com/Rogero0o/GifLoadingView
 
 --------
 #库的引用
@@ -451,6 +461,36 @@ if (header == null) {
 http://36kr.com/p/208436.html
 
 
+#Google
+[如何使用 Google Play 开发者控制台](https://support.google.com/googleplay/android-developer/answer/6112435?hl=zh-Hans)
 
+[Android 开发者培训](https://developer.android.com/training/index.html)
+
+[Android 开发者博客](http://android-developers.blogspot.com/)
+
+#Go语言
+
+[](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh)
 	
+
+#Start 1000+ Loading libs
+
+https://github.com/81813780/AVLoadingIndicatorView
+
+https://github.com/ybq/Android-SpinKit 
+```
+Android-SpinKit 可以配合ProgressBar使用
+```
+
+https://github.com/dinuscxj/LoadingDrawable
+
+还有一个Start500+的，只有三种样式，其实就看上一种旋转的动画。
+
+https://github.com/yankai-victor/Loading
+
+
+#Temp
+http://blog.coderzh.com/2015/08/29/hugo/
+http://www.cnblogs.com/4wei/archive/2012/12/24/2847262.html
+
 #End
