@@ -470,7 +470,7 @@ http://36kr.com/p/208436.html
 
 #Go语言
 
-[](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh)
+[Go语言学习书](https://github.com/astaxie/build-web-application-with-golang/blob/master/zh)
 	
 
 #Start 1000+ Loading libs
