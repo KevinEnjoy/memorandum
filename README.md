@@ -120,4 +120,17 @@ http://36kr.com/p/208436.html
 http://blog.coderzh.com/2015/08/29/hugo/
 http://www.cnblogs.com/4wei/archive/2012/12/24/2847262.html
 
+
+###待阅读
+
+http://blog.mcxiaoke.com/
+
+http://blog.mcxiaoke.com/2014/02/25/android-dev-notes-02/
+
+https://github.com/mcxiaoke/mqtt
+
+http://www.ruanyifeng.com/blog/2016/07/yaml.html
+
+http://oakzmm.com/2015/07/22/okHttp-Volley-Gson/
+
 #End
