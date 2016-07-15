@@ -35,6 +35,15 @@ Django REST 框架可以轻松部署Web APIs，其实是一个聚健壮性与弹
 Swagger 是一个规范和完整的框架，用于生成、描述、调用和可视化 RESTful 风格的 Web 服务。总体目标是使客户端和文件系统作为服务器以同样的速度来更新。文件的方法，参数和模型紧密集成到服务器端的代码，允许API来始终保持同步。Swagger 让部署管理和使用功能强大的API从未如此简单。
 ```
 
+#####安装
+```
+git clone https://github.com/swagger-api/swagger-editor.git
+cd swagger-editor
+npm install
+npm start
+```
+
+
 [ Swagger是一款RESTFUL接口的文档在线自动生成+功能测试功能软件 ](http://blog.csdn.net/wangnan9279/article/details/44541665)
 
 [Swagger：描述、生产、消费和可视化RESTful Web Service的规范框架](http://hao.jobbole.com/swagger/)
@@ -52,6 +61,7 @@ Swagger旨在打造一个标准的、语言无关REST API接口，通过它计�
 
 [Swagger - 前后端分离后的契约](http://www.cnblogs.com/whitewolf/p/4686154.html)
 
+[Swagger UI教程 API 文档神器 搭配Node使用](http://www.jianshu.com/p/d6626e6bd72c)
 ![](https://raw.githubusercontent.com/tminglei/binder-swagger-java/master/binder-swagger-java.png)
 
 
