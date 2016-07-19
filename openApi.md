@@ -45,7 +45,8 @@ http://www.bing.com/HPImageArchive.aspx?format=js&n=1&idx=1
 http://s.cn.bing.net/az/hprichbg/rb/BangkokNightMarket_ZH-CN11275629598_480x800.jpg
 ```
 
-
+![](http://s.cn.bing.net/az/hprichbg/rb/ValleyofYzer_ZH-CN8001552912_720x1280.jpg)
+![](http://s.cn.bing.net/az/hprichbg/rb/SchonbrunnPalace_ZH-CN11907034371_720x1280.jpg)
 
 ## [BING 壁纸 爬虫API ](https://github.com/Eary/bing)
 

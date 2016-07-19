@@ -36,6 +36,8 @@ https://github.com/mikepenz/Android-Iconics
 
 ###未看过的项目
 
+https://github.com/Bearded-Hen/Android-Bootstrap
+
 https://github.com/Mr-wangyong/FragmentStack
 
 https://github.com/alt236/Bluetooth-LE-Library---Android
@@ -47,6 +49,8 @@ https://github.com/timqi/SectorProgressView
 https://github.com/cymcsg/UltimateRecyclerView
 
 https://github.com/Rogero0o/GifLoadingView
+
+
 
 背景模糊
 https://github.com/charbgr/BlurNavigationDrawer
@@ -133,4 +137,9 @@ http://www.ruanyifeng.com/blog/2016/07/yaml.html
 
 http://oakzmm.com/2015/07/22/okHttp-Volley-Gson/
 
+http://blog.csdn.net/xu_fu/article/details/44004841
+
+http://www.cnblogs.com/bvin/p/4317852.html
+
+[译Volley官方文档三](http://www.jianshu.com/p/40d27cbceb98)
 #End
