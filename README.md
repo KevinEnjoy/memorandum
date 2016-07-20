@@ -119,6 +119,9 @@ http://blog.csdn.net/u012319317/article/details/50496602
 http://36kr.com/p/208436.html
 
 
+###微信IoT/微信运动
+http://iot.weixin.qq.com/
+
 
 ###Temp
 http://blog.coderzh.com/2015/08/29/hugo/
