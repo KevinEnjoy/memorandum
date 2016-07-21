@@ -175,10 +175,24 @@ http://www.mobile-open.com/2016/922023.html
 http://willyan.me/2013/05/12/android-loader/
 
 
-### Android vector标签PathData画图(SVG)
+### Android vector标签PathData画图(Vector/SVG)
 
 http://www.cnblogs.com/yuhanghzsd/p/5466846.html
 
+
+### Android Vector曲折的兼容之路 (Vector/SVG)
+
+http://www.jianshu.com/p/e3614e7abc03
+
+![](http://upload-images.jianshu.io/upload_images/1176696-7befad5f7a754d6d.gif?imageMogr2/auto-orient/strip)
+
+Android 5.0发布的时候，Google提供了Vector的支持。Vector Drawable相对于普通的Drawable来说，有以下几个好处：
+
+* Vector图像可以自动进行适配，不需要通过分辨率来设置不同的图片
+* Vector图像可以大幅减少图像的体积，同样一张图，用Vector来实现，可能只有PNG的几十分之一
+* 使用简单，很多设计工具，都可以直接导出SVG图像，从而转换成Vector图像
+* 功能强大，不用写很多代码就可以实现非常复杂的动画
+* 成熟、稳定，前端已经非常广泛的进行使用了
 
 
 
