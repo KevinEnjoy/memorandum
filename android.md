@@ -184,7 +184,7 @@ http://www.cnblogs.com/yuhanghzsd/p/5466846.html
 
 http://www.jianshu.com/p/e3614e7abc03
 
-![](http://upload-images.jianshu.io/upload_images/1176696-7befad5f7a754d6d.gif?imageMogr2/auto-orient/strip)
+![](http://upload-images.jianshu.io/upload_images/1176696-7befad5f7a754d6d.gif)
 
 Android 5.0发布的时候，Google提供了Vector的支持。Vector Drawable相对于普通的Drawable来说，有以下几个好处：
 
@@ -194,6 +194,23 @@ Android 5.0发布的时候，Google提供了Vector的支持。Vector Drawable相对于普通的Draw
 * 功能强大，不用写很多代码就可以实现非常复杂的动画
 * 成熟、稳定，前端已经非常广泛的进行使用了
 
+
+### [《Android群英传》作者简书](http://www.jianshu.com/users/dfc0ed52c22b/latest_articles)
+
+#####一扫天下——ZXing使用全解析
+
+http://www.jianshu.com/p/4fe2fcfe3389
+
+https://github.com/zxing/zxing
+
+网上很多都是基于ZXing2.3的，但是现在都3.1了，改了很多bug，也进行了很多优化，最好按本文弄一下。
+
+
+#####Android自动化测试技巧
+
+http://www.jianshu.com/p/1e42494ac1db
+
+自动化测试是把以人为驱动的测试行为转化为机器执行的一种过程
 
 
 
