@@ -1,9 +1,9 @@
 -----------
 
 
-###¹ØÓÚlibrary project ´ò°üÎªaarµÄÒıÓÃ 
-aar´ò°üÄ¬ÈÏÖ»»á°ÑlibÄ¿Â¼ÏÂµÄjar°ü´øÉÏ£¬Í¨¹ı½âÑ¹library projectÉú³ÉµÄaar¿ÉÒÔ¿´µ½¡£ 
-ÔõÃ´²ÅÄÜ°Ñaar°üÇ¶Ì×½øaarÄØ£¿ 
+###å…³äºlibrary project æ‰“åŒ…ä¸ºaarçš„å¼•ç”¨ 
+aaræ‰“åŒ…é»˜è®¤åªä¼šæŠŠlibç›®å½•ä¸‹çš„jaråŒ…å¸¦ä¸Šï¼Œé€šè¿‡è§£å‹library projectç”Ÿæˆçš„aarå¯ä»¥çœ‹åˆ°ã€‚ 
+æ€ä¹ˆæ‰èƒ½æŠŠaaråŒ…åµŒå¥—è¿›aarå‘¢ï¼Ÿ 
 
 dependencies {
     provided files('libs/nineoldandroids-2.2.0.jar')
@@ -11,7 +11,7 @@ dependencies {
 
 ---------------------
 
-###¿âµÄÒıÓÃ
+###åº“çš„å¼•ç”¨
 
 ```java
 compile ':library-spinnerwheel@aar' 
@@ -28,25 +28,25 @@ Glide.with(this)
 ```
 --------
 
-###Android App °²×°Ä¿Â¼
+###Android App å®‰è£…ç›®å½•
 
 ```
-ÊÖ»úÄÚ´æ/date/app 
-ÊÖ»úÄÚ´æ/system/app 
+æ‰‹æœºå†…å­˜/date/app 
+æ‰‹æœºå†…å­˜/system/app 
 ```
 
 --------
 
 
-###µÚÈı·½ÍøÕ¾ÏÂÔØGoogle Play Apps
+###ç¬¬ä¸‰æ–¹ç½‘ç«™ä¸‹è½½Google Play Apps
 
 #####[apkpure](https://apkpure.com)
 
-ÊÔ¹ıºÃ¼¸ÖÖPlayÓ¦ÓÃµÄÍøÕ¾£¬Õâ¸öÍøÕ¾ÊÇÏÂÔØËÙ¶È×î¿ì£¬ÏÂÔØ³É¹¦ÂÊ×î¸ßµÄ£¬¶øÇÒ×ÊÔ´Ò²ºÜ·á¸»£¬²»¹ıÒ»Ğ©¸¶·ÑµÄapp»¹ÊÇÏÂÔØ²»ÁË£¬ÏÂÔØ·½·¨ºÍÆäËûÍøÕ¾µÄÀàËÆ¡£
+è¯•è¿‡å¥½å‡ ç§Playåº”ç”¨çš„ç½‘ç«™ï¼Œè¿™ä¸ªç½‘ç«™æ˜¯ä¸‹è½½é€Ÿåº¦æœ€å¿«ï¼Œä¸‹è½½æˆåŠŸç‡æœ€é«˜çš„ï¼Œè€Œä¸”èµ„æºä¹Ÿå¾ˆä¸°å¯Œï¼Œä¸è¿‡ä¸€äº›ä»˜è´¹çš„appè¿˜æ˜¯ä¸‹è½½ä¸äº†ï¼Œä¸‹è½½æ–¹æ³•å’Œå…¶ä»–ç½‘ç«™çš„ç±»ä¼¼ã€‚
 
-#####[¿á°²](http://www.coolapk.com)
+#####[é…·å®‰](http://www.coolapk.com)
 
-¿á°²µÄ×ÊÔ´´ó²¿·Ö¶¼À´×ÔÓÚGoogle Play£¬²¢ÇÒ¿á°²Ğ¡±à¶ÔÈí¼şÒ²¶¼×öÁËÑÔ¼òÒâêàµÄËµÃ÷£¬½¨ÒéÓÅÏÈÔÚ¿á°²Íø²éÕÒÏÂÔØ¡£
+é…·å®‰çš„èµ„æºå¤§éƒ¨åˆ†éƒ½æ¥è‡ªäºGoogle Playï¼Œå¹¶ä¸”é…·å®‰å°ç¼–å¯¹è½¯ä»¶ä¹Ÿéƒ½åšäº†è¨€ç®€æ„èµ…çš„è¯´æ˜ï¼Œå»ºè®®ä¼˜å…ˆåœ¨é…·å®‰ç½‘æŸ¥æ‰¾ä¸‹è½½ã€‚
 
 
 
@@ -65,51 +65,52 @@ if (header == null) {
 
 
 
-###±È½ÏPicasso¡¢Glide ºÍ Fresco ÈıÖÖÍ¼Æ¬¼ÓÔØ¿â
+###æ¯”è¾ƒPicassoã€Glide å’Œ Fresco ä¸‰ç§å›¾ç‰‡åŠ è½½åº“
 
-####[ Android  Fresco Óë Picasso ¡¢Glide µÄ±È½Ï](http://blog.qiji.tech/archives/6344)
+####[ Android  Fresco ä¸ Picasso ã€Glide çš„æ¯”è¾ƒ](http://blog.qiji.tech/archives/6344)
 
-½áÂÛ£º
-Picasso ËùÄÜÊµÏÖµÄ¹¦ÄÜ Glide ¶¼ÄÜ×öµ½£¬Ö»ÊÇËùĞèÉèÖÃ²»Í¬¡£Á½ÕßµÄÇø±ğÊÇ Picasso ±È Glide Ìå»ıĞ¡ºÜ¶àÇÒÍ¼ÏñÖÊÁ¿±È Glide ¸ß£¬µ«Glide µÄËÙ¶È±È Picasso ¸ü¿ì£¬Glide µÄ³¤´¦ÊÇ´¦Àí´óĞÍµÄÍ¼Æ¬Á÷£¬Èç gif¡¢video£¬Èç¹ûÒªÖÆ×÷ÊÓÆµÀàÓ¦ÓÃ£¬Glide µ±ÎªÊ×Ñ¡¡£
-Fresco ¿ÉÒÔËµÊÇ×ÛºÏÁËÖ®Ç°Í¼Æ¬¼ÓÔØ¿âµÄÓÅµã£¬ÆäÔÚ5.0ÒÔÏÂµÄÄÚ´æÓÅ»¯·Ç³£ºÃ£¬µ«ËüµÄ²»×ãÊÇÌå»ıÌ«´ó£¬°´Ìå»ı½øĞĞ±È½Ï£ºFresco>Glide>Picasso£¬ËùÒÔ Fresco ÔÚÍ¼Æ¬½Ï¶àµÄÓ¦ÓÃÖĞ¸üÄÜÍ¹ÏÔÆä¼ÛÖµ£¬Èç¹ûÓ¦ÓÃÃ»ÓĞÌ«¶àÍ¼Æ¬ĞèÇó£¬²»ÍÆ¼öÊ¹ÓÃ Fresco¡£
-
-
-####[Picasso&Glide&Fresco±È½Ï ](http://mrljdx.com/2015/12/22/Picasso-Glide-Fresco%E6%AF%94%E8%BE%83/)
-
-½áÂÛ£º
-1.GlideÄ¬ÈÏÌá¹©ÅäÖÃÖ§³Ö±¾µØÍ¼Æ¬»º´æ,»º´æµÄ»úÖÆÊÇDiskLruCache.¿ÉÒÔ¸ù¾İ×Ô¼ºµÄĞèÒª,×Ô¶¨ÒåÍ¼Æ¬»º´æµÄÂ·¾¶.ËùÒÔÔÚ¿¼ÂÇ½ÚÊ¡ÓÃ»§Á÷Á¿À´¿´¿ÉÒÔ²»¿¼ÂÇPicasso;
-2.ËäÈ»FrescoÒ²Ìá¹©¸üÇ¿´óµÄÍ¼Æ¬»º´æºÍ¼ÓÔØ»úÖÆ,²»¹ıÔÚ±È½ÏÖ®ºó,¸Ğ¾õFresco»¹ÊÇÓĞ´ıÍêÉÆ.Glide¿ÉÒÔºÜ¼òµ¥µÄ»ñÈ¡ÍøÂçÍ¼Æ¬µÄBitmap¶ÔÏó,¶øFrescoĞèÒªÍ¨¹ı¶©ÔÄÊı¾İÔ´¿ËÂ¡Bitmap¶ÔÏóµÄÒıÓÃ²ÅÄÜ´æ´¢Öµ.²Ù×÷·½Ê½²»¹»¼ò½àºÍÓÑºÃ.
-3.FrescoµÄ¿âÎÄ¼şÖĞ,ÒÔ×îĞÂµÄ0.8.1ÎªÀı,imagepipeline-0.8.1.aar¹â°üµÃ´óĞ¡¾ÍÓĞ3.5M ,¶øGlide°üµÄ´óĞ¡Îª465K(ÒÀÀµÓÚ1.12MBµÄandroid-support-v4)ÎªÁËÈÃApk°üµÃÌå»ı¸üĞ¡,ËùÒÔ¿¼ÂÇÊ¹ÓÃGlide.
+ç»“è®ºï¼š
+Picasso æ‰€èƒ½å®ç°çš„åŠŸèƒ½ Glide éƒ½èƒ½åšåˆ°ï¼Œåªæ˜¯æ‰€éœ€è®¾ç½®ä¸åŒã€‚ä¸¤è€…çš„åŒºåˆ«æ˜¯ Picasso æ¯” Glide ä½“ç§¯å°å¾ˆå¤šä¸”å›¾åƒè´¨é‡æ¯” Glide é«˜ï¼Œä½†Glide çš„é€Ÿåº¦æ¯” Picasso æ›´å¿«ï¼ŒGlide çš„é•¿å¤„æ˜¯å¤„ç†å¤§å‹çš„å›¾ç‰‡æµï¼Œå¦‚ gifã€videoï¼Œå¦‚æœè¦åˆ¶ä½œè§†é¢‘ç±»åº”ç”¨ï¼ŒGlide å½“ä¸ºé¦–é€‰ã€‚
+Fresco å¯ä»¥è¯´æ˜¯ç»¼åˆäº†ä¹‹å‰å›¾ç‰‡åŠ è½½åº“çš„ä¼˜ç‚¹ï¼Œå…¶åœ¨5.0ä»¥ä¸‹çš„å†…å­˜ä¼˜åŒ–éå¸¸å¥½ï¼Œä½†å®ƒçš„ä¸è¶³æ˜¯ä½“ç§¯å¤ªå¤§ï¼ŒæŒ‰ä½“ç§¯è¿›è¡Œæ¯”è¾ƒï¼šFresco>Glide>Picassoï¼Œæ‰€ä»¥ Fresco åœ¨å›¾ç‰‡è¾ƒå¤šçš„åº”ç”¨ä¸­æ›´èƒ½å‡¸æ˜¾å…¶ä»·å€¼ï¼Œå¦‚æœåº”ç”¨æ²¡æœ‰å¤ªå¤šå›¾ç‰‡éœ€æ±‚ï¼Œä¸æ¨èä½¿ç”¨ Frescoã€‚
 
 
+####[Picasso&Glide&Frescoæ¯”è¾ƒ ](http://mrljdx.com/2015/12/22/Picasso-Glide-Fresco%E6%AF%94%E8%BE%83/)
 
-###¹ØÓÚGlideºÍPicassoµÄ±È½ÏÎÄÕÂÍÆ¼ö:
+ç»“è®ºï¼š
+1.Glideé»˜è®¤æä¾›é…ç½®æ”¯æŒæœ¬åœ°å›¾ç‰‡ç¼“å­˜,ç¼“å­˜çš„æœºåˆ¶æ˜¯DiskLruCache.å¯ä»¥æ ¹æ®è‡ªå·±çš„éœ€è¦,è‡ªå®šä¹‰å›¾ç‰‡ç¼“å­˜çš„è·¯å¾„.æ‰€ä»¥åœ¨è€ƒè™‘èŠ‚çœç”¨æˆ·æµé‡æ¥çœ‹å¯ä»¥ä¸è€ƒè™‘Picasso;
+2.è™½ç„¶Frescoä¹Ÿæä¾›æ›´å¼ºå¤§çš„å›¾ç‰‡ç¼“å­˜å’ŒåŠ è½½æœºåˆ¶,ä¸è¿‡åœ¨æ¯”è¾ƒä¹‹å,æ„Ÿè§‰Frescoè¿˜æ˜¯æœ‰å¾…å®Œå–„.Glideå¯ä»¥å¾ˆç®€å•çš„è·å–ç½‘ç»œå›¾ç‰‡çš„Bitmapå¯¹è±¡,è€ŒFrescoéœ€è¦é€šè¿‡è®¢é˜…æ•°æ®æºå…‹éš†Bitmapå¯¹è±¡çš„å¼•ç”¨æ‰èƒ½å­˜å‚¨å€¼.æ“ä½œæ–¹å¼ä¸å¤Ÿç®€æ´å’Œå‹å¥½.
+3.Frescoçš„åº“æ–‡ä»¶ä¸­,ä»¥æœ€æ–°çš„0.8.1ä¸ºä¾‹,imagepipeline-0.8.1.aarå…‰åŒ…å¾—å¤§å°å°±æœ‰3.5M ,è€ŒGlideåŒ…çš„å¤§å°ä¸º465K(ä¾èµ–äº1.12MBçš„android-support-v4)ä¸ºäº†è®©ApkåŒ…å¾—ä½“ç§¯æ›´å°,æ‰€ä»¥è€ƒè™‘ä½¿ç”¨Glide.
+
+
+
+###å…³äºGlideå’ŒPicassoçš„æ¯”è¾ƒæ–‡ç« æ¨è:
 [Introduction to Glide, Image Loader Library for Android, recommended by Google](https://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
 
 
 ###[Fresco](https://github.com/facebook/fresco)
 
-####[FrescoÓ¢ÎÄÎÄµµ](http://frescolib.org/docs)
+#####[Frescoè‹±æ–‡æ–‡æ¡£](http://frescolib.org/docs)
 
-####[FrescoÖĞÎÄÎÄµµ](http://www.fresco-cn.org/docs)
+#####[Frescoä¸­æ–‡æ–‡æ¡£](http://www.fresco-cn.org/docs)
 
-####[ÈçºÎÊÖ¶¯ÇåÀíFrescoµÄ»º´æ](http://blog.csdn.net/biezhihua/article/details/49893323)
+#####[å¦‚ä½•æ‰‹åŠ¨æ¸…ç†Frescoçš„ç¼“å­˜](http://blog.csdn.net/biezhihua/article/details/49893323)
 
 
 ###[Glide](https://github.com/bumptech/glide)
 
 
-####[Glide ¡ª Getting Started](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
+#####[Glide â€” Getting Started](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
 
-####[ÒëGlide ¡ª Getting Started](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
+#####[è¯‘Glide â€” Getting Started](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
 
-####[Glide Ê¹ÓÃ±ØĞëÖªµÀµÄ»ù´¡ÊôĞÔ](http://www.jianshu.com/p/cfb3d467687d)
+#####[Glide ä½¿ç”¨å¿…é¡»çŸ¥é“çš„åŸºç¡€å±æ€§](http://www.jianshu.com/p/cfb3d467687d)
 
-####[AndroidÍ¼Æ¬¿â--Glide WikiÖĞÎÄ·­Òë ](http://limuzhi.com/2016/01/24/Android%E5%9B%BE%E7%89%87%E5%BA%93-Glide/)
+#####[Androidå›¾ç‰‡åº“--Glide Wikiä¸­æ–‡ç¿»è¯‘ ](http://limuzhi.com/2016/01/24/Android%E5%9B%BE%E7%89%87%E5%BA%93-Glide/)
 
-####[»ñÈ¡´ÅÅÌ»º´æÎÄ¼şµÄ´óĞ¡](https://github.com/bumptech/glide/issues/789)
+#####[è·å–ç£ç›˜ç¼“å­˜æ–‡ä»¶çš„å¤§å°](https://github.com/bumptech/glide/issues/789)
 
 
+---------------------
 
 
 ###Start 1000+ Loading libs
@@ -118,101 +119,102 @@ https://github.com/81813780/AVLoadingIndicatorView
 
 https://github.com/ybq/Android-SpinKit 
 ```
-Android-SpinKit ¿ÉÒÔÅäºÏProgressBarÊ¹ÓÃ
+Android-SpinKit å¯ä»¥é…åˆProgressBarä½¿ç”¨
 ```
 
 https://github.com/dinuscxj/LoadingDrawable
 
-»¹ÓĞÒ»¸öStart500+µÄ£¬Ö»ÓĞÈıÖÖÑùÊ½£¬ÆäÊµ¾Í¿´ÉÏÒ»ÖÖĞı×ªµÄ¶¯»­¡£
+è¿˜æœ‰ä¸€ä¸ªStart500+çš„ï¼Œåªæœ‰ä¸‰ç§æ ·å¼ï¼Œå…¶å®å°±çœ‹ä¸Šä¸€ç§æ—‹è½¬çš„åŠ¨ç”»ã€‚
 
 https://github.com/yankai-victor/Loading
 
 ###Google
-[ÈçºÎÊ¹ÓÃ Google Play ¿ª·¢Õß¿ØÖÆÌ¨](https://support.google.com/googleplay/android-developer/answer/6112435?hl=zh-Hans)
+[å¦‚ä½•ä½¿ç”¨ Google Play å¼€å‘è€…æ§åˆ¶å°](https://support.google.com/googleplay/android-developer/answer/6112435?hl=zh-Hans)
 
-[Android ¿ª·¢ÕßÅàÑµ](https://developer.android.com/training/index.html)
+[Android å¼€å‘è€…åŸ¹è®­](https://developer.android.com/training/index.html)
 
-[Android ¿ª·¢Õß²©¿Í](http://android-developers.blogspot.com/)
+[Android å¼€å‘è€…åšå®¢](http://android-developers.blogspot.com/)
 
 [Material design ](https://material.google.com)
 
-###1.0.1 2015Äê×îĞÂAndroid»ù´¡ÈëÃÅ½Ì³ÌÄ¿Â¼
+###1.0.1 2015å¹´æœ€æ–°AndroidåŸºç¡€å…¥é—¨æ•™ç¨‹ç›®å½•
 
 http://www.runoob.com/w3cnote/android-tutorial-contents.html
 
 
-###androidÖĞstring.xmlÖĞ%1$s¡¢%1$dµÈµÄÓÃ·¨
+###androidä¸­string.xmlä¸­%1$sã€%1$dç­‰çš„ç”¨æ³•
 http://dengzhangtao.iteye.com/blog/1827533
 
 
+---------------------
 
 
-
-###Mina¿ò¼ÜµÄÑ§Ï°±Ê¼Ç¡ª¡ªAndroid¿Í»§¶ËµÄÊµÏÖ
+###Minaæ¡†æ¶çš„å­¦ä¹ ç¬”è®°â€”â€”Androidå®¢æˆ·ç«¯çš„å®ç°
 
 http://www.cnblogs.com/cpacm/p/3915302.html
 
 
-###Æô¶¯Ä£Ê½
+###å¯åŠ¨æ¨¡å¼
 
 http://www.cnblogs.com/meizixiong/archive/2013/07/03/3170591.html
 
 
 
 
-###Ê¹ÓÃAndroid API×î¼ÑÊµ¼ù(Retrofit OKHttp GSON)
+###ä½¿ç”¨Android APIæœ€ä½³å®è·µ(Retrofit OKHttp GSON)
 
-RetrofitºÍOkHttpÍ¬ÊôÓÚSquare¹«Ë¾µÄ¿ªÔ´ÏîÄ¿£¬ÕâÁ½ÕßÊÇ»¥²¹µÄ¹ØÏµ£¬OkHttpÊÇÒ»¸öÊµÏÖÁËHTTPĞ­ÒéµÄ¿Í»§¶Ë£¬ÀàËÆÓÚHttpClient£¬¶øRetrofitÊÇÒ»¸ö»ùÓÚOkHttpµÄ·â×°¿â£¬¸Ã¿âÖ÷Òª¼ò»¯ÁËhttpÇëÇóµÄÊµÏÖ¹ı³Ì£¬Ê¹µÃ¿ª·¢ÕßÖ»Ğè¹Ø×¢×ÔÉí¹¦ÄÜµÄÊµÏÖ£¬¶ø²»±ØÊéĞ´ÄÇĞ©±È½ÏÈßÓàµÄ´úÂë¡£µ«Ò²ÕıÊÇÓÉÓÚRetrofitµÄ¸ß¶È·â×°ĞÔ£¬ÆäÀ©Õ¹ĞÔ¾ÍÏà¶Ô±È½ÏÈõ£¬Ä³Ğ©±È½ÏÁé»îµÄ¹¦ÄÜ»¹ĞèÒª¿ª·¢Õß×Ô¼ºÍ¨¹ıOkHttpÀ´ÊµÏÖ¡£
+Retrofitå’ŒOkHttpåŒå±äºSquareå…¬å¸çš„å¼€æºé¡¹ç›®ï¼Œè¿™ä¸¤è€…æ˜¯äº’è¡¥çš„å…³ç³»ï¼ŒOkHttpæ˜¯ä¸€ä¸ªå®ç°äº†HTTPåè®®çš„å®¢æˆ·ç«¯ï¼Œç±»ä¼¼äºHttpClientï¼Œè€ŒRetrofitæ˜¯ä¸€ä¸ªåŸºäºOkHttpçš„å°è£…åº“ï¼Œè¯¥åº“ä¸»è¦ç®€åŒ–äº†httpè¯·æ±‚çš„å®ç°è¿‡ç¨‹ï¼Œä½¿å¾—å¼€å‘è€…åªéœ€å…³æ³¨è‡ªèº«åŠŸèƒ½çš„å®ç°ï¼Œè€Œä¸å¿…ä¹¦å†™é‚£äº›æ¯”è¾ƒå†—ä½™çš„ä»£ç ã€‚ä½†ä¹Ÿæ­£æ˜¯ç”±äºRetrofitçš„é«˜åº¦å°è£…æ€§ï¼Œå…¶æ‰©å±•æ€§å°±ç›¸å¯¹æ¯”è¾ƒå¼±ï¼ŒæŸäº›æ¯”è¾ƒçµæ´»çš„åŠŸèƒ½è¿˜éœ€è¦å¼€å‘è€…è‡ªå·±é€šè¿‡OkHttpæ¥å®ç°ã€‚
 
 http://blog.jobbole.com/65170/
 http://www.mobile-open.com/2016/922023.html
 
 
-### Android Loader»úÖÆ 
-ÏÈËµÒ»¸öµäĞÍµÄÓ¦ÓÃ³¡¾°£¬´ò¿ªÄ³¸ö½çÃæÊ±£¬ĞèÒªÏÈ¼ÓÔØ±¾µØ»º´æµÄÊı¾İ£¬È»ºóÔÙÇëÇóÍøÂç»ñÈ¡×îĞÂµÄÊı¾İ£¬Ë¢ĞÂUI¡£Õâ¸öÊ±ºò¾Í¿ÉÒÔÊ¹ÓÃLoaderÀ´¼ò»¯²Ù×÷¡£
-»òÕßÓ¦ÓÃ¾­³£ĞÔµÄ¶ÔÊı¾İÔ´½øĞĞÔöÉ¾¸Ä£¬ĞèÒªUI¼°Ê±×÷³öÏàÓ¦µÄË¢ĞÂÊ±£¬LoaderÒ²ÊÊÓÃ¡£
+### Android Loaderæœºåˆ¶ 
+å…ˆè¯´ä¸€ä¸ªå…¸å‹çš„åº”ç”¨åœºæ™¯ï¼Œæ‰“å¼€æŸä¸ªç•Œé¢æ—¶ï¼Œéœ€è¦å…ˆåŠ è½½æœ¬åœ°ç¼“å­˜çš„æ•°æ®ï¼Œç„¶åå†è¯·æ±‚ç½‘ç»œè·å–æœ€æ–°çš„æ•°æ®ï¼Œåˆ·æ–°UIã€‚è¿™ä¸ªæ—¶å€™å°±å¯ä»¥ä½¿ç”¨Loaderæ¥ç®€åŒ–æ“ä½œã€‚
+æˆ–è€…åº”ç”¨ç»å¸¸æ€§çš„å¯¹æ•°æ®æºè¿›è¡Œå¢åˆ æ”¹ï¼Œéœ€è¦UIåŠæ—¶ä½œå‡ºç›¸åº”çš„åˆ·æ–°æ—¶ï¼ŒLoaderä¹Ÿé€‚ç”¨ã€‚
 
 http://willyan.me/2013/05/12/android-loader/
 
+---------------------
 
-### Android vector±êÇ©PathData»­Í¼(Vector/SVG)
+###Vector/SVG
 
-http://www.cnblogs.com/yuhanghzsd/p/5466846.html
+* [Vectorsæ—¶ä»£(1) - SVGæ ¼å¼ç¼©å‡åº”ç”¨å›¾åƒ](http://www.jianshu.com/p/89879989895a)
 
 
-### Android VectorÇúÕÛµÄ¼æÈİÖ®Â· (Vector/SVG)
+* [Android vectoræ ‡ç­¾PathDataç”»å›¾](http://www.cnblogs.com/yuhanghzsd/p/5466846.html)
 
-http://www.jianshu.com/p/e3614e7abc03
+
+* [Android Vectoræ›²æŠ˜çš„å…¼å®¹ä¹‹è·¯](http://www.jianshu.com/p/e3614e7abc03)
 
 ![](http://upload-images.jianshu.io/upload_images/1176696-7befad5f7a754d6d.gif)
 
-Android 5.0·¢²¼µÄÊ±ºò£¬GoogleÌá¹©ÁËVectorµÄÖ§³Ö¡£Vector DrawableÏà¶ÔÓÚÆÕÍ¨µÄDrawableÀ´Ëµ£¬ÓĞÒÔÏÂ¼¸¸öºÃ´¦£º
+Android 5.0å‘å¸ƒçš„æ—¶å€™ï¼ŒGoogleæä¾›äº†Vectorçš„æ”¯æŒã€‚Vector Drawableç›¸å¯¹äºæ™®é€šçš„Drawableæ¥è¯´ï¼Œæœ‰ä»¥ä¸‹å‡ ä¸ªå¥½å¤„ï¼š
 
-* VectorÍ¼Ïñ¿ÉÒÔ×Ô¶¯½øĞĞÊÊÅä£¬²»ĞèÒªÍ¨¹ı·Ö±æÂÊÀ´ÉèÖÃ²»Í¬µÄÍ¼Æ¬
-* VectorÍ¼Ïñ¿ÉÒÔ´ó·ù¼õÉÙÍ¼ÏñµÄÌå»ı£¬Í¬ÑùÒ»ÕÅÍ¼£¬ÓÃVectorÀ´ÊµÏÖ£¬¿ÉÄÜÖ»ÓĞPNGµÄ¼¸Ê®·ÖÖ®Ò»
-* Ê¹ÓÃ¼òµ¥£¬ºÜ¶àÉè¼Æ¹¤¾ß£¬¶¼¿ÉÒÔÖ±½Óµ¼³öSVGÍ¼Ïñ£¬´Ó¶ø×ª»»³ÉVectorÍ¼Ïñ
-* ¹¦ÄÜÇ¿´ó£¬²»ÓÃĞ´ºÜ¶à´úÂë¾Í¿ÉÒÔÊµÏÖ·Ç³£¸´ÔÓµÄ¶¯»­
-* ³ÉÊì¡¢ÎÈ¶¨£¬Ç°¶ËÒÑ¾­·Ç³£¹ã·ºµÄ½øĞĞÊ¹ÓÃÁË
-
-
-### [¡¶AndroidÈºÓ¢´«¡·×÷Õß¼òÊé](http://www.jianshu.com/users/dfc0ed52c22b/latest_articles)
-
-#####Ò»É¨ÌìÏÂ¡ª¡ªZXingÊ¹ÓÃÈ«½âÎö
-
-http://www.jianshu.com/p/4fe2fcfe3389
-
-https://github.com/zxing/zxing
-
-ÍøÉÏºÜ¶à¶¼ÊÇ»ùÓÚZXing2.3µÄ£¬µ«ÊÇÏÖÔÚ¶¼3.1ÁË£¬¸ÄÁËºÜ¶àbug£¬Ò²½øĞĞÁËºÜ¶àÓÅ»¯£¬×îºÃ°´±¾ÎÄÅªÒ»ÏÂ¡£
+* Vectorå›¾åƒå¯ä»¥è‡ªåŠ¨è¿›è¡Œé€‚é…ï¼Œä¸éœ€è¦é€šè¿‡åˆ†è¾¨ç‡æ¥è®¾ç½®ä¸åŒçš„å›¾ç‰‡
+* Vectorå›¾åƒå¯ä»¥å¤§å¹…å‡å°‘å›¾åƒçš„ä½“ç§¯ï¼ŒåŒæ ·ä¸€å¼ å›¾ï¼Œç”¨Vectoræ¥å®ç°ï¼Œå¯èƒ½åªæœ‰PNGçš„å‡ ååˆ†ä¹‹ä¸€
+* ä½¿ç”¨ç®€å•ï¼Œå¾ˆå¤šè®¾è®¡å·¥å…·ï¼Œéƒ½å¯ä»¥ç›´æ¥å¯¼å‡ºSVGå›¾åƒï¼Œä»è€Œè½¬æ¢æˆVectorå›¾åƒ
+* åŠŸèƒ½å¼ºå¤§ï¼Œä¸ç”¨å†™å¾ˆå¤šä»£ç å°±å¯ä»¥å®ç°éå¸¸å¤æ‚çš„åŠ¨ç”»
+* æˆç†Ÿã€ç¨³å®šï¼Œå‰ç«¯å·²ç»éå¸¸å¹¿æ³›çš„è¿›è¡Œä½¿ç”¨äº†
 
 
-#####Android×Ô¶¯»¯²âÊÔ¼¼ÇÉ
+### [ã€ŠAndroidç¾¤è‹±ä¼ ã€‹ä½œè€…ç®€ä¹¦](http://www.jianshu.com/users/dfc0ed52c22b/latest_articles)
 
-http://www.jianshu.com/p/1e42494ac1db
+* [ä¸€æ‰«å¤©ä¸‹â€”â€”ZXingä½¿ç”¨å…¨è§£æ](http://www.jianshu.com/p/4fe2fcfe3389)
 
-×Ô¶¯»¯²âÊÔÊÇ°ÑÒÔÈËÎªÇı¶¯µÄ²âÊÔĞĞÎª×ª»¯Îª»úÆ÷Ö´ĞĞµÄÒ»ÖÖ¹ı³Ì
+â€‹	ç½‘ä¸Šå¾ˆå¤šéƒ½æ˜¯åŸºäºZXing2.3çš„ï¼Œä½†æ˜¯ç°åœ¨éƒ½3.1äº†ï¼Œæ”¹äº†å¾ˆå¤šbugï¼Œä¹Ÿè¿›è¡Œäº†å¾ˆå¤šä¼˜åŒ–ï¼Œæœ€å¥½æŒ‰æœ¬æ–‡å¼„ä¸€ä¸‹ã€‚[åŸºäº3.1çš„sample](https://github.com/xuyisheng/ZXingLib)
+
+* [Androidè‡ªåŠ¨åŒ–æµ‹è¯•æŠ€å·§](http://www.jianshu.com/p/1e42494ac1db)
 
 
+---------------------
 
+
+###[ä¸€ä¸ªä¸é”™çš„ç®€ä¹¦åšå®¢](http://www.jianshu.com/p/780658b79227)
+
+* [ç»˜åˆ¶å£°éŸ³é¢‘ç‡çš„æ³¢çº¹åŠ¨ç”»æ•ˆæœ](http://www.jianshu.com/p/e9d2bc36ada5)
+* [Android 6.0 - åŠ¨æ€æƒé™ç®¡ç†çš„è§£å†³æ–¹æ¡ˆ ](http://www.jianshu.com/p/dbe4d37731e6/)
+* [Vectorsæ—¶ä»£(2) - å›¾åƒçš„è·¯å¾„åŠ¨ç”»](http://www.jianshu.com/p/94447fd2114b)
+* [ä½¿ç”¨å±æ€§åŠ¨ç”»å®ç°æ˜Ÿå…‰å››å°„çš„åŠ¨ç”»æ•ˆæœ](http://www.jianshu.com/p/520a0400aa7c)
 
 
