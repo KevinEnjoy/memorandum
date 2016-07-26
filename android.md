@@ -55,6 +55,7 @@ http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0106/2275.html
 
 http://blog.csdn.net/biezhihua/article/details/50603624 
 
+[okhttp的Wiki翻译](http://www.sunofbeaches.com/archives/1777)
 
 ### header
 ```
@@ -206,7 +207,7 @@ Android 5.0发布的时候，Google提供了Vector的支持。Vector Drawable相
 
 * [Android自动化测试技巧](http://www.jianshu.com/p/1e42494ac1db)
 
-
+* [贝塞尔曲线开发的艺术](http://www.jianshu.com/p/55c721887568)
 ---------------------
 
 
@@ -218,3 +219,6 @@ Android 5.0发布的时候，Google提供了Vector的支持。Vector Drawable相
 * [使用属性动画实现星光四射的动画效果](http://www.jianshu.com/p/520a0400aa7c)
 
 
+###其他
+
+[Android引导页根据滑动渐变改变背景色](http://www.jianshu.com/p/c795ad5bf6f4)
