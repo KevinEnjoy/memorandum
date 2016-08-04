@@ -129,6 +129,13 @@ https://github.com/dinuscxj/LoadingDrawable
 
 https://github.com/yankai-victor/Loading
 
+
+简单的带有动画效果的加载控件
+
+https://github.com/ldoublem/LoadingView
+
+![](https://github.com/ldoublem/LoadingView/raw/master/screen/%E6%95%88%E6%9E%9C.gif)
+
 ###Google
 [如何使用 Google Play 开发者控制台](https://support.google.com/googleplay/android-developer/answer/6112435?hl=zh-Hans)
 
