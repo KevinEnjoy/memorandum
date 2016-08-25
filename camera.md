@@ -1,14 +1,28 @@
 [material-camera](https://github.com/afollestad/material-camera)
-AndroidÂ¼ÖÆÊÓÆµAPI·Ç³£ÄÑÓÚÊ¹ÓÃ£¬ÌØ±ğÊÇºÜ¶à³§ÉÌÓÖÏ²»¶°ÑÉãÏñÍ·´«¸ĞÆ÷Î»ÖÃµßµ¹»ò·ÅÔÚÍâ²à£¬¸ÃÀà¿â´óÁ¿ÑĞ¾¿ºÍÊµÑéµÄ½á¹û£¬Ê¹µÃAndroidÉãÏñÍ·APIÒ×ÓÚÊ¹ÓÃ¡£
+Androidå½•åˆ¶è§†é¢‘APIéå¸¸éš¾äºä½¿ç”¨ï¼Œç‰¹åˆ«æ˜¯å¾ˆå¤šå‚å•†åˆå–œæ¬¢æŠŠæ‘„åƒå¤´ä¼ æ„Ÿå™¨ä½ç½®é¢ å€’æˆ–æ”¾åœ¨å¤–ä¾§ï¼Œè¯¥ç±»åº“å¤§é‡ç ”ç©¶å’Œå®éªŒçš„ç»“æœï¼Œä½¿å¾—Androidæ‘„åƒå¤´APIæ˜“äºä½¿ç”¨ã€‚
 
 
 
 [SquareCamera](https://github.com/boxme/SquareCamera)
-Ê¹ÓÃCamera apiÊµÏÖµÄÏà»ú³ÌĞò¡£ÌØµã£º´¥Ãş¶Ô½¹£¬Ëõ·Å£¬Ç°ÖÃºóÖÃÉãÏñÍ·ÇĞ»»£¬ÉÁ¹âµÆÄ£Ê½¡£½çÃæºÜÃÀ¹Û¡£ 
+ä½¿ç”¨Camera apiå®ç°çš„ç›¸æœºç¨‹åºã€‚ç‰¹ç‚¹ï¼šè§¦æ‘¸å¯¹ç„¦ï¼Œç¼©æ”¾ï¼Œå‰ç½®åç½®æ‘„åƒå¤´åˆ‡æ¢ï¼Œé—ªå…‰ç¯æ¨¡å¼ã€‚ç•Œé¢å¾ˆç¾è§‚ã€‚ 
 
 
 [cwac-camera](https://github.com/commonsguy/cwac-camera)
 
 android-gpuimage
 Repository: https://github.com/path/android-priority-jobqueue
-Description: GPUImageÊÇ¸ö¹¦ÄÜÊ®·ÖÇ¿´ó¡¢ÓÖÊ®·ÖÒ×ÓÃµÄÍ¼Ïñ´¦Àí¿â¡£Ìá¹©¸÷ÖÖ¸÷ÑùµÄÍ¼Ïñ´¦ÀíÂË¾µ£¬²¢ÇÒÖ§³ÖÕÕÏà»úºÍÉãÏñ»úµÄÊµÊ±ÂË¾µ
+Description: GPUImageæ˜¯ä¸ªåŠŸèƒ½ååˆ†å¼ºå¤§ã€åˆååˆ†æ˜“ç”¨çš„å›¾åƒå¤„ç†åº“ã€‚æä¾›å„ç§å„æ ·çš„å›¾åƒå¤„ç†æ»¤é•œï¼Œå¹¶ä¸”æ”¯æŒç…§ç›¸æœºå’Œæ‘„åƒæœºçš„å®æ—¶æ»¤é•œ
+
+
+
+[CameraModule](https://yalantis.com/?utm_source=github)
+
+Repository:Â [https://github.com/Yalantis/CameraModule](https://github.com/Yalantis/CameraModule)
+Description: Yalantiså¼€æºçš„æ‘„åƒæœºï¼Œæœ‰è‡ªåŠ¨èšç„¦åŠŸèƒ½ç­‰ã€‚ã€ä½†æ˜¯ä»Demoæ¥çœ‹æ‹ç…§æ¯”è¾ƒæ…¢ 10+sï¼Ÿã€‘
+
+
+
+[](https://github.com/yeungeek/awesome-android-libraries#stickercamera)[StickerCamera](https://github.com/Skykai521/StickerCamera)
+
+Repository:Â [https://github.com/Skykai521/StickerCamera](https://github.com/Skykai521/StickerCamera)
+Description: è¿™æ˜¯ä¸€æ¬¾é›†æˆäº†ç›¸æœº,å›¾ç‰‡è£å‰ª,ç»™å›¾ç‰‡è´´è´´å›¾æ‰“æ ‡ç­¾çš„ç›¸æœºåº”ç”¨ã€‚

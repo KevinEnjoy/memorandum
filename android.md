@@ -226,6 +226,15 @@ Android 5.0发布的时候，Google提供了Vector的支持。Vector Drawable相
 * [使用属性动画实现星光四射的动画效果](http://www.jianshu.com/p/520a0400aa7c)
 
 
+
+### [一个搜索开源项目的网站 http://android-arsenal.com](http://android-arsenal.com)
+
+Android developer portal with tools, libraries, and apps
+
 ###其他
 
 [Android引导页根据滑动渐变改变背景色](http://www.jianshu.com/p/c795ad5bf6f4)
+
+
+### 泡在网上的日子代码库
+http://www.jcodecraeer.com/plus/list.php?tid=31

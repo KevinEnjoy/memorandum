@@ -50,6 +50,8 @@ https://github.com/cymcsg/UltimateRecyclerView
 
 https://github.com/Rogero0o/GifLoadingView
 
+https://github.com/Yalantis/pull-to-make-soup
+![](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif)
 
 
 背景模糊
@@ -145,4 +147,8 @@ http://blog.csdn.net/xu_fu/article/details/44004841
 http://www.cnblogs.com/bvin/p/4317852.html
 
 [译Volley官方文档三](http://www.jianshu.com/p/40d27cbceb98)
+
+[牛逼的组织Yalantis](https://github.com/Yalantis)
+Yalantis 致力于提供世界一流的 Android 和 iOS 应用开发服务，因一些动画很棒的开源库为大家所熟知.
+
 #End
