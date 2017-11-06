@@ -15,63 +15,63 @@
 
 ### 已经看过的项目
 
-	- https://github.com/Trinea/android-open-project
+- https://github.com/Trinea/android-open-project
 
-	- https://github.com/wasabeef/awesome-android-ui
+- https://github.com/wasabeef/awesome-android-ui
 
-	- https://github.com/zhuxiujia/LoopView 
+- https://github.com/zhuxiujia/LoopView 
 
-	- https://bintray.com/tamajit/maven/android-spinnerwheel/view
+- https://bintray.com/tamajit/maven/android-spinnerwheel/view
 
-	- https://github.com/kyleduo/SwitchButton
+- https://github.com/kyleduo/SwitchButton
 
-	- https://github.com/koral--/android-gif-drawable
+- https://github.com/koral--/android-gif-drawable
 
-	- https://github.com/Yalantis/uCrop
+- https://github.com/Yalantis/uCrop
 
-	- https://github.com/mikepenz/Android-Iconics
+- https://github.com/mikepenz/Android-Iconics
 
  
 ### 未看过的项目
 
-	* https://github.com/Bearded-Hen/Android-Bootstrap
+* https://github.com/Bearded-Hen/Android-Bootstrap
 
-	* https://github.com/Mr-wangyong/FragmentStack
+* https://github.com/Mr-wangyong/FragmentStack
 
-	* https://github.com/alt236/Bluetooth-LE-Library---Android
+* https://github.com/alt236/Bluetooth-LE-Library---Android
 
-	* https://github.com/lopspower/CircularFillableLoaders
+* https://github.com/lopspower/CircularFillableLoaders
 
-	* https://github.com/timqi/SectorProgressView
+* https://github.com/timqi/SectorProgressView
 
-	* https://github.com/cymcsg/UltimateRecyclerView
+* https://github.com/cymcsg/UltimateRecyclerView
 
-	* https://github.com/Rogero0o/GifLoadingView
+* https://github.com/Rogero0o/GifLoadingView
 
-	* [背景模糊](https://github.com/charbgr/BlurNavigationDrawer)
+* [背景模糊](https://github.com/charbgr/BlurNavigationDrawer)
 
-	* https://github.com/Yalantis/pull-to-make-soup
-	![](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif)
+* https://github.com/Yalantis/pull-to-make-soup
+![](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif)
 
 
 
 ### 学习
 
-	- 热修复 
-	- MVP 
-	- gradle自动打包apk 
-	- React Native 
-	- NDK 
+- 热修复 
+- MVP 
+- gradle自动打包apk 
+- React Native 
+- NDK 
 
 ##### 热修复  
-	* https://github.com/alibaba/AndFix 
-	* http://www.cnblogs.com/xiaomoxian/p/5265158.html 
-	* http://www.bkjia.com/Androidjc/1055390.html 
+* https://github.com/alibaba/AndFix 
+* http://www.cnblogs.com/xiaomoxian/p/5265158.html 
+* http://www.bkjia.com/Androidjc/1055390.html 
 
 ##### MVP  
-	* http://yeungeek.com/2014/06/17/mvp-android/ 
-	* http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0202/2397.html 
-	* http://www.lcode.org/android-mvp%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E8%AF%A6%E8%A7%A3/ 
+* http://yeungeek.com/2014/06/17/mvp-android/ 
+* http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0202/2397.html 
+* http://www.lcode.org/android-mvp%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E8%AF%A6%E8%A7%A3/ 
 
 
 ##### 贝塞尔曲线
@@ -84,31 +84,32 @@
 
 * http://blog.csdn.net/u012319317/article/details/50496602
 
-	```
-		//seperate RGB channels and calculate new value for each channel
-		//ignore alpha channel
-		private int RGBColorTransform(float progress, int fromColor, int toColor) {
-			int or = (fromColor >> 16) & 0xFF;
-			int og = (fromColor >> 8) & 0xFF;
-			int ob = fromColor & 0xFF;
-		
-			int nr = (toColor >> 16) & 0xFF;
-			int ng = (toColor >> 8) & 0xFF;
-			int nb = toColor & 0xFF;
-		
-			int rGap = (int) ((float) (nr - or) * progress);
-			int gGap = (int) ((float) (ng - og) * progress);
-			int bGap = (int) ((float) (nb - ob) * progress);
-		
-			return 0xFF000000 | ((or + rGap) << 16) | ((og + gGap) << 8) | (ob + bGap);
-		
-		}
+```
+	//seperate RGB channels and calculate new value for each channel
+	//ignore alpha channel
+	private int RGBColorTransform(float progress, int fromColor, int toColor) {
+		int or = (fromColor >> 16) & 0xFF;
+		int og = (fromColor >> 8) & 0xFF;
+		int ob = fromColor & 0xFF;
+	
+		int nr = (toColor >> 16) & 0xFF;
+		int ng = (toColor >> 8) & 0xFF;
+		int nb = toColor & 0xFF;
+	
+		int rGap = (int) ((float) (nr - or) * progress);
+		int gGap = (int) ((float) (ng - og) * progress);
+		int bGap = (int) ((float) (nb - ob) * progress);
+	
+		return 0xFF000000 | ((or + rGap) << 16) | ((og + gGap) << 8) | (ob + bGap);
+	
+	}
 
-	```
+```
 
-### [一个博客网站medium](https://medium.com/)
+### 一个博客网站medium
 
-http://36kr.com/p/208436.html
+[medium](https://medium.com/)
+[简介](http://36kr.com/p/208436.html)
 
 
 ### 微信IoT/微信运动
@@ -116,8 +117,8 @@ http://iot.weixin.qq.com/
 
 
 ### Temp
-http://blog.coderzh.com/2015/08/29/hugo/
-http://www.cnblogs.com/4wei/archive/2012/12/24/2847262.html
+* http://blog.coderzh.com/2015/08/29/hugo/
+* http://www.cnblogs.com/4wei/archive/2012/12/24/2847262.html
 
 
 ### 待阅读
