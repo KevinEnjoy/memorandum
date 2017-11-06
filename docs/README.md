@@ -63,18 +63,18 @@
 - React Native 
 - NDK 
 
-##### 热修复  
+### 热修复  
 * https://github.com/alibaba/AndFix 
 * http://www.cnblogs.com/xiaomoxian/p/5265158.html 
 * http://www.bkjia.com/Androidjc/1055390.html 
 
-##### MVP  
+### MVP  
 * http://yeungeek.com/2014/06/17/mvp-android/ 
 * http://jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0202/2397.html 
 * http://www.lcode.org/android-mvp%E5%BC%80%E5%8F%91%E6%A8%A1%E5%BC%8F%E8%AF%A6%E8%A7%A3/ 
 
 
-##### 贝塞尔曲线
+### 贝塞尔曲线
 * http://gavinliu.cn/2015/03/30/Android-Animation-%E8%B4%9D%E5%A1%9E%E5%B0%94%E6%9B%B2%E7%BA%BF%E4%B9%8B%E7%BE%8E/
 * https://github.com/gavinliu/BeautifulOfBezier
 * http://blog.csdn.net/qq_21430549/article/details/50040241
