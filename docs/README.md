@@ -108,8 +108,8 @@
 
 ### 一个博客网站medium
 
-[medium](https://medium.com/)
-[简介](http://36kr.com/p/208436.html)
+* [medium](https://medium.com/)
+* [简介](http://36kr.com/p/208436.html)
 
 
 ### 微信IoT/微信运动
@@ -123,23 +123,24 @@ http://iot.weixin.qq.com/
 
 ### 待阅读
 
-http://blog.mcxiaoke.com/
+* http://blog.mcxiaoke.com/
 
-http://blog.mcxiaoke.com/2014/02/25/android-dev-notes-02/
+* http://blog.mcxiaoke.com/2014/02/25/android-dev-notes-02/
 
-https://github.com/mcxiaoke/mqtt
+* https://github.com/mcxiaoke/mqtt
 
-http://www.ruanyifeng.com/blog/2016/07/yaml.html
+* http://www.ruanyifeng.com/blog/2016/07/yaml.html
 
-http://oakzmm.com/2015/07/22/okHttp-Volley-Gson/
+* http://oakzmm.com/2015/07/22/okHttp-Volley-Gson/
 
-http://blog.csdn.net/xu_fu/article/details/44004841
+* http://blog.csdn.net/xu_fu/article/details/44004841
 
-http://www.cnblogs.com/bvin/p/4317852.html
+* http://www.cnblogs.com/bvin/p/4317852.html
 
-[译Volley官方文档三](http://www.jianshu.com/p/40d27cbceb98)
+* [译Volley官方文档三](http://www.jianshu.com/p/40d27cbceb98)
 
-[牛逼的组织Yalantis](https://github.com/Yalantis)
+* [牛逼的组织Yalantis](https://github.com/Yalantis)
+
 Yalantis 致力于提供世界一流的 Android 和 iOS 应用开发服务，因一些动画很棒的开源库为大家所熟知.
 
 
