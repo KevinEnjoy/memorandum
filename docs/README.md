@@ -53,6 +53,13 @@
 * https://github.com/Yalantis/pull-to-make-soup
 ![](https://raw.githubusercontent.com/Yalantis/PullToMakeSoup/master/PullToMakeSoupDemo/Resouces/recipe-finder.gif)
 
+* https://github.com/iammert/ExpandableLayout
+![](https://raw.githubusercontent.com/iammert/ExpandableLayout/master/art/ell.png)
+
+* https://github.com/iammert/ScalingLayout
+![](https://github.com/iammert/ScalingLayout/blob/master/art/gif_behavior.gif)
+![](https://github.com/iammert/ScalingLayout/blob/master/art/gif_fab.gif)
+![](https://github.com/iammert/ScalingLayout/blob/master/art/gif_searchbar.gif)
 
 
 ### 学习
