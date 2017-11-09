@@ -57,9 +57,9 @@
 ![](https://raw.githubusercontent.com/iammert/ExpandableLayout/master/art/ell.png)
 
 * https://github.com/iammert/ScalingLayout
-![](https://github.com/iammert/ScalingLayout/blob/master/art/gif_behavior.gif)
-![](https://github.com/iammert/ScalingLayout/blob/master/art/gif_fab.gif)
-![](https://github.com/iammert/ScalingLayout/blob/master/art/gif_searchbar.gif)
+![](https://raw.githubusercontent.com/iammert/ScalingLayout/master/art/gif_behavior.gif)
+![](https://raw.githubusercontent.com/iammert/ScalingLayout/master/art/gif_fab.gif)
+![](https://raw.githubusercontent.com/iammert/ScalingLayout/master/art/gif_searchbar.gif)
 
 
 ### 学习
