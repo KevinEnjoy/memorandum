@@ -46,6 +46,18 @@
 
 * https://github.com/cymcsg/UltimateRecyclerView
 
+* https://github.com/MarcinMoskala/ArcSeekBar
+
+![](https://raw.githubusercontent.com/MarcinMoskala/ArcSeekBar/master/art/flow.gif)
+
+* https://github.com/AnthonyFermin/DropDownView
+
+![](https://media.giphy.com/media/26FmQTErmydlNAvks/giphy.gif)
+
+* [FFT](https://github.com/paramsen/noise)
+
+![](https://raw.githubusercontent.com/paramsen/noise/master/sample_preview.gif)
+
 * https://github.com/Rogero0o/GifLoadingView
 
 * [背景模糊](https://github.com/charbgr/BlurNavigationDrawer)
@@ -56,12 +68,16 @@
 * https://github.com/iammert/ExpandableLayout
 ![](https://raw.githubusercontent.com/iammert/ExpandableLayout/master/art/ell.png)
 
+
 * https://github.com/iammert/ScalingLayout
 
 ![](https://raw.githubusercontent.com/iammert/ScalingLayout/master/art/gif_behavior.gif)
 
 ![](https://raw.githubusercontent.com/iammert/ScalingLayout/master/art/gif_fab.gif)
 ![](https://raw.githubusercontent.com/iammert/ScalingLayout/master/art/gif_searchbar.gif)
+
+
+
 
 
 ### 学习
